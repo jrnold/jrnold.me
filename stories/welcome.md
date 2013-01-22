@@ -1,10 +1,11 @@
 <!-- 
-.. title: Welcome
-.. slug: index
-.. date: 2013/01/22 02:19:07
+.. title: Curriculum Vitae
+.. slug: cv
+.. date: 2013/01/22 10:30:00
 .. tags: 
 .. link: 
-.. description: 
+.. description: Curriculum Vitae of Jeffrey Arnold
 -->
 
-New Site
+Download the current version.
+
