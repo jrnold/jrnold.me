@@ -10,11 +10,11 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"
-BLOG_TITLE = "Demo Site"
-BLOG_URL = "http://nikola.ralsina.com.ar"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."
+BLOG_AUTHOR = "Jeffrey Arnold"
+BLOG_TITLE = "jrnold.me"
+BLOG_URL = "http://jrnold.me"
+BLOG_EMAIL = "jeffrey.arnold@gmail.com"
+BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
 
 # post_pages contains (wildcard, destination, template, use_in_feed) tuples.
@@ -39,8 +39,8 @@ BLOG_DESCRIPTION = "This is a demo site for Nikola."
 #
 
 post_pages = (
-    ("posts/*.txt", "posts", "post.tmpl", True),
-    ("stories/*.txt", "stories", "story.tmpl", False),
+    ("posts/*.md", "blog", "post.tmpl", True),
+    ("stories/*.md", "stories", "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -217,7 +217,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # To enable comments via Disqus, you need to create a forum at
 # http://disqus.com, and set DISQUS_FORUM to the short name you selected.
 # If you want to disable comments, set it to False.
-DISQUS_FORUM = "nikolademo"
+DISQUS_FORUM = "jrnoldme"
 
 # Enable Addthis social buttons?
 # Defaults to true
@@ -257,6 +257,19 @@ SEARCH_FORM = ""
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 ANALYTICS = """
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24596920-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
     """
 
 # Put in global_context things you want available on all your templates.
@@ -281,9 +294,6 @@ GLOBAL_CONTEXT = {
         DEFAULT_LANG: (
             ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
             ('/categories/index.html', 'Tags'),
-            ('/stories/about-nikola.html', 'About Nikola'),
-            ('/stories/handbook.html', 'The Nikola Handbook'),
-            ('http://nikola.ralsina.com.ar', 'Powered by Nikola!'),
             ),
         }
     }
