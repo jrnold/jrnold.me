@@ -7,8 +7,7 @@
 .. description: 
 -->
 
--
-  [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
+- [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
 - [Mendeley](http://www.mendeley.com/profiles/jeffrey-arnold/)
 
 # Working Papers
@@ -32,6 +31,8 @@ casualties of the battles of the American Civil War. The results
 suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
+
+- [current version](./docs/acw_markets_2011-04-18.pdf)
     
 ## 	Civil War as a Hidden Markov Model
 
@@ -46,6 +47,8 @@ states. The estimated classification supports an inclusive concept of
 civil war with a low threshold for what constitutes a civil war. The
 only statistically significant covariates in the civil war transition
 models are population and GDP on civil war onset.
+
+- [current version](./docs/cwhmm_2011-06-02.pdf)
 
 ## Producing Death:
 
@@ -63,6 +66,8 @@ coefficients of this function at the war level. These estimates
 provide theoretically derived empirical estimates of the
 offense-defense balance and the relationship between the quantity and
 quality of forces over time and across wars
+
+- [current version](./docs/producing_death_2012-04-09.pdf)
 
 ## Uncertainty in Military Capabilities and its Effects on Conflict Initiation
 

@@ -46,7 +46,8 @@ post_pages = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-FILES_FOLDERS = {'files': '' }
+FILES_FOLDERS = {'files': '',
+                 'docso': 'docs'}
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -137,7 +138,9 @@ REDIRECTIONS = [('index.html', 'about.html')]
 # "rsync -rav output/* joe@my.site:/srv/www/site"
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
-DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = [
+    "s3cmd sync --delete-removed --acl-public ./output/ s3://www.jrnold.me"
+]
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -272,6 +275,10 @@ ANALYTICS = """
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
     """
 

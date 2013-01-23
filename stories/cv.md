@@ -7,5 +7,5 @@
 .. description: Curriculum Vitae of Jeffrey Arnold
 -->
 
-Download the current version.
+Download the [current version](./docs/Jeffrey_Arnold_CV.pdf).
 
