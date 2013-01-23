@@ -32,7 +32,7 @@ suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
 
-- [current version](./docs/acw_markets_2011-04-18.pdf)
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/acw_markets_2011-04-18.pdf)
     
 ## 	Civil War as a Hidden Markov Model
 
@@ -48,7 +48,7 @@ civil war with a low threshold for what constitutes a civil war. The
 only statistically significant covariates in the civil war transition
 models are population and GDP on civil war onset.
 
-- [current version](./docs/cwhmm_2011-06-02.pdf)
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf)
 
 ## Producing Death:
 
@@ -67,7 +67,7 @@ provide theoretically derived empirical estimates of the
 offense-defense balance and the relationship between the quantity and
 quality of forces over time and across wars
 
-- [current version](./docs/producing_death_2012-04-09.pdf)
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf)
 
 ## Uncertainty in Military Capabilities and its Effects on Conflict Initiation
 
@@ -95,6 +95,9 @@ We develop a measure of the historical reputation of leaders' using
 their Wikipedia pages. 
 
 # Publications
+
+- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html).
+- Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://www.sciencedirect.com/science/article/pii/S0378437106013124).
 
 # Code
 

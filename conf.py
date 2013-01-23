@@ -46,8 +46,7 @@ post_pages = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-FILES_FOLDERS = {'files': '',
-                 'docso': 'docs'}
+FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -298,6 +297,7 @@ GLOBAL_CONTEXT = {
     'content_footer': CONTENT_FOOTER,
     'rss_path': RSS_PATH,
     'rss_link': RSS_LINK,
+    'docs_link': 'https://s3.amazonaws.com/docs.jrnold.me/',
     # Locale-dependent links for the sidebar
     # You should provide a key-value pair for each used language.
     'sidebar_links': {
