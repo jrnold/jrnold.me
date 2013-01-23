@@ -40,7 +40,7 @@ BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
 post_pages = (
     ("posts/*.md", "blog", "post.tmpl", True),
-    ("stories/*.md", "stories", "story.tmpl", False),
+    ("stories/*.md", "", "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -108,7 +108,7 @@ TAG_PATH = "categories"
 TAG_PAGES_ARE_INDEXES = True
 
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-INDEX_PATH = ""
+INDEX_PATH = "blog"
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -130,7 +130,7 @@ SLUG_TAG_PATH = True
 #
 # If you don't need any of these, just set to []
 
-REDIRECTIONS = []
+REDIRECTIONS = [('index.html', 'about.html')]
 
 # Commands to execute to deploy. Can be anything, for example,
 # you may use rsync:
@@ -302,3 +302,4 @@ GLOBAL_CONTEXT = {
             ),
         }
     }
+
