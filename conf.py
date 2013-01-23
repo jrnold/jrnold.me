@@ -46,7 +46,7 @@ post_pages = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-# FILES_FOLDERS = {'files': '' }
+FILES_FOLDERS = {'files': '' }
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -292,8 +292,13 @@ GLOBAL_CONTEXT = {
     # You should provide a key-value pair for each used language.
     'sidebar_links': {
         DEFAULT_LANG: (
+            ('/stories/about.html', 'About'),
+            ('/stories/cv.html', 'CV'),
+            ('/stories/research.html', 'Research'),
+            ('/stories/teaching.html', 'Teaching'),
+            ('/index.html', 'Blog'),
             ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
-            ('/categories/index.html', 'Tags'),
+            ('/categories/index.html', 'Tags')
             ),
         }
     }
