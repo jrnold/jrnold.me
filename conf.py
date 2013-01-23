@@ -295,9 +295,9 @@ GLOBAL_CONTEXT = {
     # You should provide a key-value pair for each used language.
     'sidebar_links': {
         DEFAULT_LANG: (
-            ('/stories/about.html', 'About'),
-            ('/stories/cv.html', 'CV'),
-            ('/stories/research.html', 'Research'),
+            ('/about.html', 'About'),
+            ('/cv.html', 'CV'),
+            ('/research.html', 'Research'),
             ('/blog/index.html', 'Blog'),
             ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
             ('/categories/index.html', 'Tags')

@@ -1,11 +1,15 @@
 <!-- 
 .. title: Research
 .. slug: research
-.. date: 2013/01/22 19:03:32
+.. date: 2013/01/23 00:31
 .. tags: 
 .. link: 
 .. description: 
 -->
+
+-
+  [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
+- [Mendeley](http://www.mendeley.com/profiles/jeffrey-arnold/)
 
 # Working Papers
 
@@ -21,7 +25,7 @@ mechanisms are observationally equivalent, the participants'
 expectations are unobservable, and there is a lack of data on battles.
 With new methods and new data on the American Civil War, I address
 these challenges. I estimate the information revealed by combat with a
-model of Bayesian learning. I use prices of Union and Confederate
+model of Bayesian learning. I use prices of Union and Cnnnonfederate
 currencies to measure public expectations of war duration and outcome.
 Data on battlefield events come from detailed data on the outcomes and
 casualties of the battles of the American Civil War. The results
@@ -91,4 +95,10 @@ their Wikipedia pages.
 
 ## ggthemes
 
-Some extra themes, geoms, and scales for ggplot2.  [github](https://github.com/jrnold/ggthemes), [CRAN](http://cran.r-project.org/web/packages/ggthemes/index.html).
+Some extra themes, geoms, and scales for ggplot2.
+[github](https://github.com/jrnold/ggthemes),
+[CRAN](http://cran.r-project.org/web/packages/ggthemes/index.html)
+
+## other
+
+Find my other projects on [github](https://github.com/jrnold/).
