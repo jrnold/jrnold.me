@@ -9,7 +9,7 @@
 
 # Working Papers
 
-## Pricing the Costly Lottery 
+## Pricing the Costly Lottery:
 
 **Financial Market Reactions to Battlefield Events in the American Civil War**
       
@@ -43,7 +43,7 @@ civil war with a low threshold for what constitutes a civil war. The
 only statistically significant covariates in the civil war transition
 models are population and GDP on civil war onset.
 
-## Producing Death
+## Producing Death:
 
 **Estimating the Offense-Defense Balance from the Production Function of Battle Casualties**
 

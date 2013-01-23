@@ -191,7 +191,7 @@ INDEXES_TITLE = ""  # If this is empty, the default is BLOG_TITLE
 INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' translated
 
 # Name of the theme to use. Themes are located in themes/theme_name
-THEME = 'site'
+THEME = 'spacelab'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
 DATE_FORMAT = '%Y-%m-%d %H:%M'
@@ -209,10 +209,13 @@ style="border-width:0; margin-bottom:12px;"
 src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML)
-CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'
-CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
-                                       author=BLOG_AUTHOR,
-                                       date=time.gmtime().tm_year)
+CC_LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a>'
+CONTENT_FOOTER = 'Contents © {date} <a href="mailto:{email}">{author}</a> {cc} | Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> | Theme based on <a href="http://bootswatch.com/spacelab/">Spacelab</a>.</p>'
+CONTENT_FOOTER = CONTENT_FOOTER.format(
+    cc=CC_LICENSE,
+    email=BLOG_EMAIL,
+    author=BLOG_AUTHOR,
+    date=time.gmtime().tm_year)
 
 # To enable comments via Disqus, you need to create a forum at
 # http://disqus.com, and set DISQUS_FORUM to the short name you selected.
@@ -221,7 +224,7 @@ DISQUS_FORUM = "jrnoldme"
 
 # Enable Addthis social buttons?
 # Defaults to true
-# ADD_THIS_BUTTONS = True
+ADD_THIS_BUTTONS = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -295,8 +298,7 @@ GLOBAL_CONTEXT = {
             ('/stories/about.html', 'About'),
             ('/stories/cv.html', 'CV'),
             ('/stories/research.html', 'Research'),
-            ('/stories/teaching.html', 'Teaching'),
-            ('/index.html', 'Blog'),
+            ('/blog/index.html', 'Blog'),
             ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
             ('/categories/index.html', 'Tags')
             ),
