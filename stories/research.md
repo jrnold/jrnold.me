@@ -32,8 +32,8 @@ suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
 
-- [current version](https://s3.amazonaws.com/docs.jrnold.me/acw_markets_2011-04-18.pdf)
-    
+*new version coming soon*
+
 ## 	Civil War as a Hidden Markov Model
 
 This paper estimates a model of civil war prevalence with a hidden
