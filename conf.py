@@ -40,6 +40,7 @@ BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
 post_pages = (
     ("posts/*.md", "blog", "post.tmpl", True),
+    ("posts/*.rst", "blog", "post.tmpl", True),
     ("stories/*.md", "", "story.tmpl", False),
 )
 
