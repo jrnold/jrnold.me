@@ -1,7 +1,7 @@
 .. title: PyMC to Stan Distributions
 .. slug: pymc-to-stan-distributions
 .. date: 2013/02/06 23:12:50
-.. tags: 
+.. tags: stan pymc Bayesian 
 .. link: 
 .. description: 
 
@@ -11,50 +11,51 @@ Concordances between distributions in Stan 1.1.1 and `PyMC 2.2
 The PyMC functions return the likelihood; Stan returns the
 *log-likelihood*.
 
-.. list-table:: Univariate Discrete Distributions
+Distributions names in *italics* means that there is a difference
+in the parameterization of the distribution in Stan and PyMC.
 
-    *
-      - Distribution 
+Univariate Discrete Distributions
+===================================
+
+.. list-table:: 
+    :header-rows: 1
+
+    * - Distribution 
       - PyMC 
       - Stan 
-    * 
-      - Bernoulli
+    * - Bernoulli
       - ``bernoulli_like(x, p)``
       - ``bernoulli_log(x, p)`` 
-    * 
-      - Binomial 
+    * - Binomial 
       - ``binomial_like(x, n, p)`` 
       - ``binomial_log(x, n, p)`` 
-    *
-      - Categorical & 
+    * - Categorical  
       - ``categorical_like(x, p)``
       - ``categorical_log(x, p)`` 
-    * 
-      - Discrete Uniform  &
+    * - Discrete Uniform  
       - ``discrete_uniform_like(x, lower, upper)``
       - 
-    * 
-      - *Geometric*
+    * - *Geometric*
       - ``geometric_like(x, p)``
       - ``neg_binomial_log(x, 1.0, p / (1 - p))`` 
-    * 
-      - *Hypergeometric* & 
+    * - *Hypergeometric*  
       - ``hypergeometric_like(x, n, m, N)``
       - ``hypergeometric_log(x, N, n, m)`` 
-    * 
-      - *Negative Binomial* & 
-      - ``negative_binomial_like(x, mu, alpha)`` &
-      - ``neg_binomial_log(x, alpha, alpha / mu)`` \\
-    * 
-      - Poisson & 
+    * - *Negative Binomial*  
+      - ``negative_binomial_like(x, mu, alpha)`` 
+      - ``neg_binomial_log(x, alpha, alpha / mu)``
+    * - Poisson  
       - ``poisson_like(x, mu)``
       - ``poisson_log(x, mu)`` 
-    * 
-      - Truncated Poisson & 
-      - ``truncated_poisson_like(x, mu, k)`` &
+    * - Truncated Poisson  
+      - ``truncated_poisson_like(x, mu, k)`` 
       - 
 
-.. list-table:: Univariate Continuous Distributions
+Univariate Continuous Distributions
+====================================
+
+.. list-table:: 
+  :header-rows: 1
 
   * 
    - Distribution
@@ -153,26 +154,25 @@ The PyMC functions return the likelihood; Stan returns the
    -  ``weibull_like(x, alpha, beta)``
    -  ``weibull_log(x, alpha, beta)``
 
-.. list-table:: Multivariate Distributions
+Multivariate Distributions
+============================
+
+.. list-table:: 
+   :header-rows: 1
    
-   * 
-     - Name
+   * - Name
      - PyMC
      - Stan
-   *
-     - Multivariate Hypergeometric 
+   * - Multivariate Hypergeometric 
      -  ``multivariate_hypergeometric_like(x, m)``
      -  
-   *
-     -  *Multinomial* 
+   * -  *Multinomial* 
      -  ``multinomial_like(x, n, p)``
      -  ``multinomial_log(x, n * p)``
-   *
-     -  Dirichlet
+   * -  Dirichlet
      -  ``dirichlet_like(x, theta)``
      -  ``dirichlet_log(x, theta)``
-   *
-     -  Multivariate Normal
+   * -  Multivariate Normal
      -  ``mv_normal_like(x, mu, tau)``
      -  ``multi_normal_prec_log(x, mu, tau)``
    *
