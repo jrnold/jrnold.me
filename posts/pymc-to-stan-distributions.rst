@@ -1,7 +1,7 @@
 .. title: PyMC to Stan Distributions
 .. slug: pymc-to-stan-distributions
 .. date: 2013/02/06 23:12:50
-.. tags: stan pymc Bayesian 
+.. tags: stan, pymc, Bayesian 
 .. link: 
 .. description: 
 
@@ -160,7 +160,7 @@ Multivariate Distributions
 .. list-table:: 
    :header-rows: 1
    
-   * - Name
+   * - Distribution
      - PyMC
      - Stan
    * - Multivariate Hypergeometric 
