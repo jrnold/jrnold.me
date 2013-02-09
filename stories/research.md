@@ -94,6 +94,10 @@ with
 We develop a measure of the historical reputation of leaders' using
 their Wikipedia pages. 
 
+- [VERY early draft](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf)
+- [presentation](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf), Annual Meeting of the Midwest Political Science Association,
+  Chicago, IL, April 13, 2013.
+
 # Publications
 
 - Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html).
