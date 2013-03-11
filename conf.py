@@ -12,7 +12,7 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Jeffrey Arnold"
 BLOG_TITLE = "jrnold.me"
-SITE_URL = "http://jrnold.me"
+SITE_URL = "http://jrnold.me/"
 BLOG_EMAIL = "jeffrey.arnold@gmail.com"
 BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
@@ -195,6 +195,8 @@ INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' trans
 
 # Name of the theme to use. Themes are located in themes/theme_name
 THEME = 'spacelab'
+#THEME = 'site'
+#THEME = 'readable'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
 DATE_FORMAT = '%Y-%m-%d %H:%M'
@@ -299,6 +301,7 @@ GLOBAL_CONTEXT = {
     'rss_path': RSS_PATH,
     'rss_link': RSS_LINK,
     'docs_link': 'https://s3.amazonaws.com/docs.jrnold.me/',
+    'lang': 'en',
     # Locale-dependent links for the sidebar
     # You should provide a key-value pair for each used language.
     'sidebar_links': {
