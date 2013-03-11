@@ -5,14 +5,14 @@ import os
 import time
 
 ########################################
-# Configuration, please edit
+# Confoiguration, please edit
 ########################################
 
 
 # Data about this site
 BLOG_AUTHOR = "Jeffrey Arnold"
 BLOG_TITLE = "jrnold.me"
-BLOG_URL = "http://jrnold.me"
+SITE_URL = "http://jrnold.me"
 BLOG_EMAIL = "jeffrey.arnold@gmail.com"
 BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
@@ -258,7 +258,7 @@ SEARCH_FORM = ""
 #<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
 #</form>
 #<!-- End of custom search -->
-#""" % BLOG_URL
+#""" % SITE_URL
 
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
@@ -288,7 +288,7 @@ GLOBAL_CONTEXT = {
     'analytics': ANALYTICS,
     'blog_author': BLOG_AUTHOR,
     'blog_title': BLOG_TITLE,
-    'blog_url': BLOG_URL,
+    'blog_url': SITE_URL,
     'blog_desc': BLOG_DESCRIPTION,
     'date_format': DATE_FORMAT,
     'translations': TRANSLATIONS,
@@ -306,6 +306,7 @@ GLOBAL_CONTEXT = {
             ('/about.html', 'About'),
             ('/cv.html', 'CV'),
             ('/research.html', 'Research'),
+            ('/teaching.html', 'Teaching'),
             ('/blog/index.html', 'Blog'),
             ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
             ('/categories/index.html', 'Tags')
