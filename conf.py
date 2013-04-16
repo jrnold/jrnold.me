@@ -12,7 +12,8 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Jeffrey Arnold"
 BLOG_TITLE = "jrnold.me"
-SITE_URL = "http://jrnold.me/"
+SITE_URL = "http://jrnold.me"
+#BLOG_URL = SITE_URL
 BLOG_EMAIL = "jeffrey.arnold@gmail.com"
 BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
@@ -194,8 +195,8 @@ INDEXES_TITLE = ""  # If this is empty, the default is BLOG_TITLE
 INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' translated
 
 # Name of the theme to use. Themes are located in themes/theme_name
-THEME = 'spacelab'
-#THEME = 'site'
+#THEME = 'spacelab'
+THEME = 'site'
 #THEME = 'readable'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
@@ -215,7 +216,7 @@ src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML)
 CC_LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a>'
-CONTENT_FOOTER = 'Contents © {date} <a href="mailto:{email}">{author}</a> {cc} | Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> | Theme based on <a href="http://bootswatch.com/spacelab/">Spacelab</a>.</p>'
+CONTENT_FOOTER = 'Contents © {date} <a href="mailto:{email}">{author}</a> {cc} | Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'
 CONTENT_FOOTER = CONTENT_FOOTER.format(
     cc=CC_LICENSE,
     email=BLOG_EMAIL,
