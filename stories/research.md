@@ -32,7 +32,7 @@ suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
 
-*new version coming soon*
+- [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf), April 12, 2013
 
 ## 	Civil War as a Hidden Markov Model
 
@@ -68,6 +68,7 @@ offense-defense balance and the relationship between the quantity and
 quality of forces over time and across wars
 
 - [current version](https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf)
+- [MPSA 2013 Presentation Slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf) April 12, 2013
 
 ## Uncertainty in Military Capabilities and its Effects on Conflict Initiation
 
