@@ -1,0 +1,15 @@
+.. link: 
+.. description: 
+.. tags: conferences, presentation
+.. date: 2013/04/16 21:37:35
+.. title: MPSA 2013
+.. slug: mpsa2013
+
+I presented two papers at MPSA on April 12, 2013. 
+
+- Pricing the Costly Lottery: Financial Market Reactions to
+  Battlefield Events in the American Civil War `Presentation <https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf>`__
+- Producing Death: Estimating the Offense-Defense Balance from the
+  Production Function of Battle Casualties `Presentation
+  <https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf>`__
+
