@@ -196,7 +196,7 @@ INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' trans
 
 # Name of the theme to use. Themes are located in themes/theme_name
 #THEME = 'spacelab'
-THEME = 'site'
+#THEME = 'site'
 #THEME = 'readable'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
