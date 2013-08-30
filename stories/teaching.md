@@ -7,11 +7,19 @@
 .. description: 
 -->
 
+# As Instructor
+
+## Political Science Methods
+
+Emory University, Fall 2013.
+
+Link to [Syllabus](https://s3.amazonaws.com/docs.jrnold.me/POLS208_2013F/POLS208_2013F_Syllabus.pdf)
+
 # As Teaching Assistant
 
 ## Introductory Statistical Methods 
 
-University of Rochester, Spring 2012
+University of Rochester, Spring 2012, undergraduate
 
 [Course Materials](./teaching/psc205.html)
 
@@ -26,7 +34,7 @@ correlation, bivariate and multivariate regression
  
 ## Civil War and the International System
 
-University of Rochester, Fall 2011
+University of Rochester, Fall 2011, undergraduate
 
 **Responsibilities:** grading midterms and exams, teaching test review sessions.
 
@@ -37,7 +45,7 @@ University of Rochester, Fall 2011
   
 ## Game Theory 
 
-University of Rochester, Spring 2011
+University of Rochester, Spring 2011, undergraduate
 
 **Responsibilities:** teaching recitations, grading assignments and midterms
 
@@ -48,7 +56,7 @@ University of Rochester, Spring 2011
 
 ## Introduction to International Relations
 
-University of Rochester, Fall 2010
+University of Rochester, Fall 2010, undergraduate
 
 **Responsibilities:** teaching weekly recitation, writing and grading tests.
 
