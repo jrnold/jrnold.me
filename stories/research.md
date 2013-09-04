@@ -1,7 +1,7 @@
 <!-- 
 .. title: Research
 .. slug: research
-.. date: 2013/01/23 00:31
+.. date: 2013/09/04 07:58:00
 .. tags: 
 .. link: 
 .. description: 
