@@ -12,38 +12,20 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Jeffrey Arnold"
 BLOG_TITLE = "jrnold.me"
-SITE_URL = "http://jrnold.me"
+SITE_URL = "http://jrnold.me/"
 #BLOG_URL = SITE_URL
 BLOG_EMAIL = "jeffrey.arnold@gmail.com"
 BLOG_DESCRIPTION = "Jeffrey Arnold's Site"
 
 
-# post_pages contains (wildcard, destination, template, use_in_feed) tuples.
-#
-# The wildcard is used to generate a list of reSt source files
-# (whatever/thing.txt).
-# That fragment must have an associated metadata file (whatever/thing.meta),
-# and opcionally translated files (example for spanish, with code "es"):
-#     whatever/thing.txt.es and whatever/thing.meta.es
-#
-# From those files, a set of HTML fragment files will be generated:
-# cache/whatever/thing.html (and maybe cache/whatever/thing.html.es)
-#
-# These files are combinated with the template to produce rendered
-# pages, which will be placed at
-# output / TRANSLATIONS[lang] / destination / pagename.html
-#
-# where "pagename" is specified in the metadata file.
-#
-# if use_in_feed is True, then those posts will be added to the site's
-# rss feeds.
-#
-
-post_pages = (
-    ("posts/*.md", "blog", "post.tmpl", True),
-    ("posts/*.rst", "blog", "post.tmpl", True),
-    ("stories/*.md", "", "story.tmpl", False),
+POSTS = (
+    ("posts/*.md", "blog", "post.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
 )
+PAGES = (
+    ("stories/*.md", "", "story.tmpl"),
+)
+
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
@@ -58,11 +40,20 @@ FILES_FOLDERS = {'files': ''}
 # 'rest' is reStructuredText
 # 'markdown' is MarkDown
 # 'html' assumes the file is html and just copies it
-post_compilers = {
+COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
-    "html": ('.html', '.htm')
-    }
+    "textile": ('.textile',),
+    "txt2tags": ('.t2t',),
+    "bbcode": ('.bb',),
+    "wiki": ('.wiki',),
+    "ipynb": ('.ipynb',),
+    "html": ('.html', '.htm'),
+    # Pandoc detects the input from the source filename
+    # but is disabled by default as it would conflict
+    # with many of the others.
+    # "pandoc": ('.rst', '.md', '.txt'),
+}
 
 # Nikola is multilingual!
 #
@@ -195,9 +186,7 @@ INDEXES_TITLE = ""  # If this is empty, the default is BLOG_TITLE
 INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' translated
 
 # Name of the theme to use. Themes are located in themes/theme_name
-#THEME = 'spacelab'
-#THEME = 'site'
-#THEME = 'readable'
+THEME = 'bootstrap3'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
 DATE_FORMAT = '%Y-%m-%d %H:%M'
@@ -223,14 +212,10 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(
     author=BLOG_AUTHOR,
     date=time.gmtime().tm_year)
 
-# To enable comments via Disqus, you need to create a forum at
-# http://disqus.com, and set DISQUS_FORUM to the short name you selected.
-# If you want to disable comments, set it to False.
-DISQUS_FORUM = "jrnoldme"
+COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM_ID = "jrnoldme"
 
-# Enable Addthis social buttons?
-# Defaults to true
-ADD_THIS_BUTTONS = False
+SOCIAL_BUTTONS_CODE = ""
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -265,7 +250,7 @@ SEARCH_FORM = ""
 
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-ANALYTICS = """
+BODY_END = """
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -285,10 +270,32 @@ ANALYTICS = """
 </script>
     """
 
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ('/about.html', 'About'),
+        ('/cv.html', 'CV'),
+        ('/research.html', 'Research'),
+        ('/teaching.html', 'Teaching'),
+        ('/blog/index.html', 'Blog'),
+            ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
+        ('/categories/index.html', 'Tags')
+    ),
+}
+
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ('/archive.html', 'Archives'),
+#         ('/categories/index.html', 'Tags'),
+#         ('/rss.xml', 'RSS'),
+#         ((('/foo', 'FOO'),
+#           ('/bar', 'BAR')), 'BAZ'),
+#     ),
+# }
+
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-    'analytics': ANALYTICS,
+    'analytics': BODY_END,
     'blog_author': BLOG_AUTHOR,
     'blog_title': BLOG_TITLE,
     'blog_url': SITE_URL,
@@ -297,24 +304,11 @@ GLOBAL_CONTEXT = {
     'translations': TRANSLATIONS,
     'license': LICENSE,
     'search_form': SEARCH_FORM,
-    'disqus_forum': DISQUS_FORUM,
+    'disqus_forum': COMMENT_SYSTEM_ID,
     'content_footer': CONTENT_FOOTER,
     'rss_path': RSS_PATH,
     'rss_link': RSS_LINK,
     'docs_link': 'https://s3.amazonaws.com/docs.jrnold.me/',
     'lang': 'en',
-    # Locale-dependent links for the sidebar
-    # You should provide a key-value pair for each used language.
-    'sidebar_links': {
-        DEFAULT_LANG: (
-            ('/about.html', 'About'),
-            ('/cv.html', 'CV'),
-            ('/research.html', 'Research'),
-            ('/teaching.html', 'Teaching'),
-            ('/blog/index.html', 'Blog'),
-            ('/' + os.path.join(ARCHIVE_PATH, ARCHIVE_FILENAME), 'Archives'),
-            ('/categories/index.html', 'Tags')
-            ),
-        }
     }
 
