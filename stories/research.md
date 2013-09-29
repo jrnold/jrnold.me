@@ -32,7 +32,7 @@ suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
 
-- [current version](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_the_Costly_Lottery_v_1_3.pdf), v 1.3, September 26, 2013.
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf), v 1.3, September 26, 2013.
 - [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf), April 12, 2013
 
 ## Bayesian Shrinkage in Dynamic Linear Models
