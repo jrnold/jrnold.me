@@ -1,10 +1,10 @@
 <!-- 
 .. title: Research
 .. slug: research
-.. date: 2013/09/04 07:58:00
-.. tags: 
+.. date: 2013/10/3 09:16:00
+.. tags: research
 .. link: 
-.. description: 
+.. description: Abstracts and links to research projects
 -->
 
 - [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
@@ -32,7 +32,7 @@ suggest that battle outcomes rather than casualties or information
 revelation had the largest influence on the expected duration of the
 American Civil War.
 
-- [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf), v 1.3, September 26, 2013.
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf), v 1.4, September 29, 2013.
 - [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf), April 12, 2013
 
 ## Bayesian Shrinkage in Dynamic Linear Models
@@ -131,6 +131,11 @@ their Wikipedia pages.
 Some extra themes, geoms, and scales for ggplot2.
 [github](https://github.com/jrnold/ggthemes),
 [CRAN](http://cran.r-project.org/web/packages/ggthemes/index.html)
+
+## smss
+
+Datasets associated with textbook [Statistical Methods for the Social Sciences](http://www.amazon.com/Statistical-Methods-Social-Sciences-4th/dp/0130272957) by Alan Agresti and Barbara Finlay.
+This packages the datasets available at <http://www.stat.ufl.edu/~aa/social/data.html> into an **R** package.
 
 ## other
 
