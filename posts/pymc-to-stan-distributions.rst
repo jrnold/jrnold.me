@@ -8,9 +8,6 @@
 Concordances between distributions in Stan 1.1.1 and `PyMC 2.2
 <http://pymc-devs.github.com/pymc/distributions.html>`_
 
-The PyMC functions return the likelihood; Stan returns the
-*log-likelihood*.
-
 Distributions names in *italics* means that there is a difference
 in the parameterization of the distribution in Stan and PyMC.
 
@@ -191,3 +188,13 @@ Multivariate Distributions
      -  Wishart (Covariance)
      -  ``wishart_cov_like(X, n, C)``
      -  ``wishart_log(X, n, C)`` 
+
+*Edits*: 
+
+- Oct 24, 2013: Both PyMC and Stan functions return the log-likelihood. Removed a sentence that said otherwise.
+
+..  LocalWords:  PyMC pymc stan bernoulli Hypergeometric poisson chi2
+..  LocalWords:  hypergeometric cauchy exponweib loc inv laplace von
+..  LocalWords:  Lognormal lognormal Noncentral noncentral studen mv
+..  LocalWords:  pareto weibull dirichlet prec Cholesky chol sig cov
+..  LocalWords:  cholesky Wishart wishart
