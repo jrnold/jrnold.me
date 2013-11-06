@@ -1,7 +1,7 @@
 <!-- 
 .. title: Research
 .. slug: research
-.. date: 2013/10/3 09:16:00
+.. date: 2013/11/06 11:39:00
 .. tags: research
 .. link: 
 .. description: Abstracts and links to research projects
@@ -15,22 +15,19 @@
 ## Pricing the Costly Lottery:
 
 **Financial Market Reactions to Battlefield Events in the American Civil War**
-      
-What role does combat play in resolving the disagreement that
-initiated war? Bargaining theories of war propose two mechanisms, the
-destruction of capabilities and the revelation of private information.
-These mechanisms are difficult to analyze quantitatively because the
-mechanisms are observationally equivalent, the participants'
-expectations are unobservable, and there is a lack of data on battles.
-With new methods and new data on the American Civil War, I address
-these challenges. I estimate the information revealed by combat with a
-model of Bayesian learning. I use prices of Union and Cnnnonfederate
-currencies to measure public expectations of war duration and outcome.
-Data on battlefield events come from detailed data on the outcomes and
-casualties of the battles of the American Civil War. The results
-suggest that battle outcomes rather than casualties or information
-revelation had the largest influence on the expected duration of the
-American Civil War.
+
+This paper estimates the effects of major battles in the American
+Civil War on the price of Union bonds.  Bond prices are a function of
+expected future cash flows, and war results can have a large influence
+on the the expectation of the timely payment of those cash flows.
+Thus, bond prices provide a method to assess the effects of war events
+on the expected war result.  This allows for understanding how events
+within war influenced the expected war result.  Assessing the
+importance of war events on war termination provides another method
+for researchers to ``open up the black box of war''.  In this
+application, initial results suggest that for the Union bonds
+considered, the average Confederate victory decreased the price by
+3.3% Union victory increased it by 1%.
 
 - [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf), v 1.4, September 29, 2013.
 - [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf), April 12, 2013
