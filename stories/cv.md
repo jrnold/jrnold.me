@@ -1,7 +1,7 @@
 <!-- 
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013/12/13 18:10:00
+.. date: 2013/12/03 18:10:00
 .. tags: cv
 .. link: 
 .. description: Curriculum Vitae of Jeffrey Arnold
