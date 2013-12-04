@@ -130,7 +130,7 @@ REDIRECTIONS = [('index.html', 'about.html')]
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
-    "s3cmd sync --delete-removed --acl-public ./output/ s3://www.jrnold.me"
+    "s3cmd sync --delete-removed --guess-mime-type --acl-public ./output/ s3://www.jrnold.me"
 ]
 
 # Where the output site should be located
