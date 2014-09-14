@@ -105,7 +105,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/about.html', 'About'),
+        ('/index.html', 'About'),
         ('/cv.html', 'CV'),
         ('/research.html', 'Research'),
         ('/teaching.html', 'Teaching'),
@@ -179,8 +179,8 @@ POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.md", "stories", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -287,7 +287,7 @@ SLUG_TAG_PATH = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [('index.html', 'about.html')]
+REDIRECTIONS = []
 
 # Commands to execute to deploy. Can be anything, for example,
 # you may use rsync:
@@ -503,7 +503,7 @@ COMMENT_SYSTEM_ID = "jrnoldme"
 # WARNING: if a story would conflict with the index file (usually
 #          caused by setting slug to `index`), the STORY_INDEX
 #          will not be generated for that directory.
-# STORY_INDEX = False
+# STORY_INDEX = True
 # Enable comments on story pages?
 # COMMENTS_IN_STORIES = False
 # Enable comments on picture gallery pages?
