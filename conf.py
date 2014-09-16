@@ -106,7 +106,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'About'),
-        ('/cv.html', 'CV'),
+        ('https://jrnold.github.io/jrnold-cv/', 'CV'),
         ('/research.html', 'Research'),
         ('/teaching.html', 'Teaching'),
         ('/blog/index.html', 'Blog'),
