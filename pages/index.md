@@ -1,11 +1,13 @@
 <!-- 
 .. title: About
 .. slug: index
-.. date: 2014/09/14 07:42:00
+.. date: 2014-09-21 13:39:11
 .. tags: 
 .. link: 
 .. description: 
 -->
+
+<image style="float: left; width: 400px; padding-right: 25px; padding-bottom: 25px" src="https://s3.amazonaws.com/docs.jrnold.me/img/IMG_20140918_132253.jpg" alt="Jeffrey Arnold in front of Smith Hall" title="Jeffrey Arnold in front of Smith Hall"/>
 
 I am an Acting Assistant Professor of Political Science at the [University of Washington](http://www.polisci.washington.edu/) and Core Faculty Member in the [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/).
 My research includes a variety of applications of quantitative methods to international relations questions.
@@ -18,3 +20,4 @@ Economist in the
 research group at the
 [Federal Reserve Bank of New York](http://www.newyorkfed.org/)
 where I worked on systemic financial risk before it was cool.
+
