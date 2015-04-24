@@ -295,9 +295,11 @@ REDIRECTIONS = [("about.html", "index.html")]
 # And then do a backup, or run `nikola ping` from the `ping`
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
-DEPLOY_COMMANDS = [
-    "s3cmd sync --delete-remove --acl-public ./output/ s3://www.jrnold.me"
-]
+DEPLOY_COMMANDS = {
+    'default': ["s3cmd sync --no-mime-magic --delete-remove --acl-public ./output/ s3://www.jrnold.me"],
+}
+
+WRITE_TAG_CLOUD = True
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
