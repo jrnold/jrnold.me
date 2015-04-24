@@ -104,6 +104,10 @@ capability uncertainty on conflict initiation this new measure of
 uncertainty is included as an explanatory variable in a model of MID
 initiations.
 
+## Financial Markets and the Onset of the American Civil War
+
+Link to paper: [pdf](https://s3.amazonaws.com/docs.jrnold.me/Did_Financial_Market_Anticipate_the_Onset_of_the_American_Civil_War.pdf)
+
 ## Measuring Rulers
 
 with
