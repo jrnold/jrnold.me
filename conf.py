@@ -296,7 +296,7 @@ REDIRECTIONS = [("about.html", "index.html")]
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
-    "s3cmd sync --default-mime-type --delete-remove --acl-public ./output/ s3://www.jrnold.me"
+    "s3cmd sync --delete-remove --acl-public ./output/ s3://www.jrnold.me"
 ]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch

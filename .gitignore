@@ -1,4 +1,4 @@
-/.doit.db
 /cache/
 /output/
 /venv/
+/.doit.*
