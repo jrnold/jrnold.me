@@ -296,7 +296,7 @@ REDIRECTIONS = [("about.html", "index.html")]
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = {
-    'default': ["aws s3 sync --no-guess-mime-type --delete --region us-east-1 --acl public-read ./output/ s3://www.jrnold.me"],
+    'default': ["aws s3 sync --delete --region us-east-1 --acl public-read ./output/ s3://www.jrnold.me"],
 }
 
 WRITE_TAG_CLOUD = True
