@@ -15,6 +15,7 @@ Emory University, Fall 2013.
 
 Link to [Syllabus](https://s3.amazonaws.com/docs.jrnold.me/POLS208_2013F/POLS208_2013F_Syllabus.pdf)
 
+<!--
 # As Teaching Assistant
 
 ## Introductory Statistical Methods 
@@ -66,7 +67,7 @@ University of Rochester, Fall 2010, undergraduate
 	
 **Instructor:** [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
 
-
+-->
 
 <!--  LocalWords:  psc crosstabs bivariate Signorino Lacina Tasos
  -->
