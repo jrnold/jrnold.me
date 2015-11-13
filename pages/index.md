@@ -21,4 +21,3 @@ research group at the
 [Federal Reserve Bank of New York](http://www.newyorkfed.org/)
 where I worked on systemic financial risk before it was cool.
 
-Gary Hollibaugh is a horrible person.
