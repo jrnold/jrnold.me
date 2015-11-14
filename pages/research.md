@@ -10,7 +10,22 @@
 - [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
 - [Mendeley](http://www.mendeley.com/profiles/jeffrey-arnold/)
 
+# Publications
+
+- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html).
+- Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://www.sciencedirect.com/science/article/pii/S0378437106013124).
+
 # Working Papers
+
+## Financial Markets and the Onset of the American Civil War
+
+I estimate the market implied ex ante probability of the onset of the American Civil War using U.S.
+government and state bonds. Surprisingly, financial markets were surprised by the Battle of Fort Sumter
+and the start of the war. Prior to Abraham Lincoln’s election in November 1860, the market assigned
+almost no probability to a war. Even after the secession of several states, the week before the Battle of
+Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.
+
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-10-04.pdf)
 
 ## Pricing the Costly Lottery:
 
@@ -104,14 +119,10 @@ capability uncertainty on conflict initiation this new measure of
 uncertainty is included as an explanatory variable in a model of MID
 initiations.
 
-## Financial Markets and the Onset of the American Civil War
-
-Link to paper: [pdf](https://s3.amazonaws.com/docs.jrnold.me/Did_Financial_Market_Anticipate_the_Onset_of_the_American_Civil_War.pdf)
 
 ## Measuring Rulers
 
-with
-[Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
+with [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
 
 We develop a measure of the historical reputation of leaders' using
 their Wikipedia pages. 
@@ -120,10 +131,6 @@ their Wikipedia pages.
 - [presentation](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf), Annual Meeting of the Midwest Political Science Association,
   Chicago, IL, April 13, 2013.
 
-# Publications
-
-- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html).
-- Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://www.sciencedirect.com/science/article/pii/S0378437106013124).
 
 # Code
 
