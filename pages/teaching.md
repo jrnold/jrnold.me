@@ -7,67 +7,37 @@
 .. description: 
 -->
 
-# As Instructor
+# Primary Instructor
 
-## Political Science Methods
+## University of Washington, 2014--
 
-Emory University, Fall 2013.
+### Graduate
 
-Link to [Syllabus](https://s3.amazonaws.com/docs.jrnold.me/POLS208_2013F/POLS208_2013F_Syllabus.pdf)
+- POLS/CS&SS 503: Advanced Quantitative Political Methodology. Spring 2016.
+- POLS/CS&SS 501: Advanced Political Research Design and Analysis. Winter 2016.
+- POLS/CS&SS 503: Advanced Quantitative Political Methodology. Spring 2015.
 
-<!--
-# As Teaching Assistant
+### Undergraduate
 
-## Introductory Statistical Methods 
+- CS&SS/SOC/STAT 221: Statistical Concepts and Methods for the Social Sciences. Winter 2015.
 
-University of Rochester, Spring 2012, undergraduate
+## Emory University, 2013--2014
 
-[Course Materials](./teaching/psc205.html)
+### Graduate
 
-**Responsibilities:** Designing and teaching a weekly lab session. Writing and grading weekly
-homework assignments. Teaching students **R**. Grading exams.
+- Political Science Math Camp, 2014. Graduate.
 
-**Topics:** Data analysis, probability, estimation and inference,
-hypothesis tests, research design, crosstabs and association,
-correlation, bivariate and multivariate regression
-	
-**Instructor:** [Curt Signorino](http://www.rochester.edu/college/psc/signorino/)
- 
-## Civil War and the International System
+### Undergraduate
 
-University of Rochester, Fall 2011, undergraduate
+- POLS 208: Political Science Methods, Spring 2014. Undergraduate. 
+- POLS 208 Political Science Methods, Fall 2013. Undergraduate. [Syllabus](https://s3.amazonaws.com/docs.jrnold.me/POLS208_2013F/POLS208_2013F_Syllabus.pdf)
 
-**Responsibilities:** grading midterms and exams, teaching test review sessions.
+# Teaching Assistant
 
-**Topics:** patterns in civil war, causes of civil war, counterinsurgency, peacekeeping
-    
-**Instructor:**
-  [Bethany Lacina](http://www.rochester.edu/College/faculty/blacina/index.html)
-  
-## Game Theory 
-
-University of Rochester, Spring 2011, undergraduate
-
-**Responsibilities:** teaching recitations, grading assignments and midterms
-
-**Topics:** Strategic and extensive form games, games of imperfect
-    information, repeated games, games of incomplete information.
-
-**Instructor:** [Tasos Kalendrakis](http://www.rochester.edu/college/faculty/kalandrakis/)
-
-## Introduction to International Relations
-
-University of Rochester, Fall 2010, undergraduate
-
-**Responsibilities:** teaching weekly recitation, writing and grading tests.
-
-**Topics:** War and Bargaining, domestic politics and war,
-    international institutions, trade, development and law, 
-    transnational networks, failed states, terrorism.
-	
-**Instructor:** [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
-
--->
+- PSC 205: Introductory Statistical Methods, University of Rochester, Spring 2012. Primary instructor: [Curt Signorino](http://www.rochester.edu/college/psc/signorino/).  [Course Materials](./teaching/psc205.html)
+- Civil War and the International System, University of Rochester, Fall 2011. Primary instructor: [Bethany Lacina](http://www.rochester.edu/College/faculty/blacina/index.html).
+- Game Theory, University of Rochester, Spring 2011. Primary Instructor: [Tasos Kalendrakis](http://www.rochester.edu/college/faculty/kalandrakis/).
+- Introduction to International Relations, University of Rochester, Fall 2010. Primary instructor: [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/).
 
 <!--  LocalWords:  psc crosstabs bivariate Signorino Lacina Tasos
  -->
