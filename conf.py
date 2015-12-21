@@ -109,9 +109,9 @@ NAVIGATION_LINKS = {
         ('https://jrnold.github.io/jrnold-cv/', 'CV'),
         ('/research.html', 'Research'),
         ('/teaching.html', 'Teaching'),
-        ('/blog/index.html', 'Blog'),
-        ('/archive.html', 'Archives'),
-        ('/categories/index.html', 'Tags')
+        #('/blog/index.html', 'Blog'),
+        #('/archive.html', 'Archives'),
+        #('/categories/index.html', 'Tags')
     ),
 }
 
