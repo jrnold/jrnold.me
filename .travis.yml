@@ -17,6 +17,7 @@ deploy:
   region: us-east-1
   skip_cleanup: true
   local_dir: output
+  bucket: www.jrnold.me
 branches:
 - master
 env:
