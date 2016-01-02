@@ -20,7 +20,5 @@ deploy:
   bucket: www.jrnold.me
 branches:
 - master
-env:
-  global:
     
 
