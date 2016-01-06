@@ -44,8 +44,8 @@ application, initial results suggest that for the Union bonds
 considered, the average Confederate victory decreased the price by
 3.3% Union victory increased it by 1%.
 
-- [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf), v 1.4, September 29, 2013.
-- [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf), April 12, 2013
+- [current version](https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf)
+- [MPSA 2013 Presentation slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf)
 
 ## Bayesian Shrinkage in Dynamic Linear Models
 
@@ -100,7 +100,7 @@ offense-defense balance and the relationship between the quantity and
 quality of forces over time and across wars
 
 - [current version](https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf)
-- [MPSA 2013 Presentation Slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf) April 12, 2013
+- [MPSA 2013 Presentation Slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf)
 
 ## Uncertainty in Military Capabilities and its Effects on Conflict Initiation
 
@@ -122,12 +122,12 @@ initiations.
 
 ## Measuring Rulers
 
-with [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
+With [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
 
 We develop a measure of the historical reputation of leaders' using
 their Wikipedia pages. 
 
-- [VERY early draft](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf)
+- [draft](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf)
 - [presentation](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf), Annual Meeting of the Midwest Political Science Association,
   Chicago, IL, April 13, 2013.
 
