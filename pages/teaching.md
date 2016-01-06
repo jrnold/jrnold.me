@@ -34,7 +34,7 @@
 
 # Teaching Assistant
 
-- PSC 205: Introductory Statistical Methods, University of Rochester, Spring 2012. Primary instructor: [Curt Signorino](http://www.rochester.edu/college/psc/signorino/).  [Course Materials](./teaching/psc205.html)
+- PSC 205: Introductory Statistical Methods, University of Rochester, Spring 2012. Primary instructor: [Curt Signorino](http://www.rochester.edu/college/psc/signorino/).  [Course Materials](./teaching/rochester/psc205.html)
 - Civil War and the International System, University of Rochester, Fall 2011. Primary instructor: [Bethany Lacina](http://www.rochester.edu/College/faculty/blacina/index.html).
 - Game Theory, University of Rochester, Spring 2011. Primary Instructor: [Tasos Kalendrakis](http://www.rochester.edu/college/faculty/kalandrakis/).
 - Introduction to International Relations, University of Rochester, Fall 2010. Primary instructor: [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/).

@@ -8,11 +8,10 @@
 -->
 
 - [Google Scholar Profile](http://scholar.google.com/citations?user=N2NJ_WoAAAAJ)
-- [Mendeley](http://www.mendeley.com/profiles/jeffrey-arnold/)
 
 # Publications
 
-- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [[url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html)].
+- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [[url](https://www.newyorkfed.org/research/epr/08v14n2/0809arma.html)].
 - Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://dx.doi.org/10.1016/j.physa.2006.11.093)
 
 # Working Papers
@@ -131,20 +130,3 @@ their Wikipedia pages.
 - [presentation](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf), Annual Meeting of the Midwest Political Science Association,
   Chicago, IL, April 13, 2013.
 
-
-# Code
-
-## ggthemes
-
-Some extra themes, geoms, and scales for ggplot2.
-[github](https://github.com/jrnold/ggthemes),
-[CRAN](http://cran.r-project.org/web/packages/ggthemes/index.html)
-
-## smss
-
-Datasets associated with textbook [Statistical Methods for the Social Sciences](http://www.amazon.com/Statistical-Methods-Social-Sciences-4th/dp/0130272957) by Alan Agresti and Barbara Finlay.
-This packages the datasets available at <http://www.stat.ufl.edu/~aa/social/data.html> into an **R** package.
-
-## other
-
-Find my other projects on [github](https://github.com/jrnold/).
