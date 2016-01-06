@@ -450,11 +450,11 @@ LICENSE = """
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/"><br>
 <img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+src="https://licensebuttons.net/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; 2013-{date}  <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a> {license}'
+CONTENT_FOOTER = 'Contents &copy; 2013-{date}  <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

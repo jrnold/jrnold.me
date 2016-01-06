@@ -18,6 +18,6 @@ In a prior life, I worked as a Research Associate and
 Economist in the
 [Money and Payments Studies](http://www.newyorkfed.org/research/payments_research/index.html)
 research group at the
-[Federal Reserve Bank of New York](http://www.newyorkfed.org/)
-where I worked on systemic financial risk before it was cool.
+[Federal Reserve Bank of New York](http://www.newyorkfed.org/).
+
 

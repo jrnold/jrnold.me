@@ -12,8 +12,8 @@
 
 # Publications
 
-- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html).
-- Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://www.sciencedirect.com/science/article/pii/S0378437106013124).
+- Armantier, Olivier, James McAndrews, and Jeffrey Arnold. 2008. “Changes in the Timing Distribution of Fedwire Funds Transfers.” FRBNY Economic Policy Review 14(2): 83–112. [[url](http://www.newyorkfed.org/research/epr/08v14n2/0809arma.html)].
+- Soramäki, Kimmo, Morten L Bech, Jeffrey Arnold, Robert J Glass, and Walter E Beyeler. 2007. “The topology of interbank payment flows.” Physica A: Statistical Mechanics and its Applications 379(1): 317–333. [url](http://dx.doi.org/10.1016/j.physa.2006.11.093)
 
 # Working Papers
 
@@ -39,7 +39,7 @@ Thus, bond prices provide a method to assess the effects of war events
 on the expected war result.  This allows for understanding how events
 within war influenced the expected war result.  Assessing the
 importance of war events on war termination provides another method
-for researchers to ``open up the black box of war''.  In this
+for researchers to &ldquo;open up the black box of war&rdquo;.  In this
 application, initial results suggest that for the Union bonds
 considered, the average Confederate victory decreased the price by
 3.3% Union victory increased it by 1%.
@@ -124,7 +124,7 @@ initiations.
 
 With [Hein Goemans](http://www.rochester.edu/college/faculty/hgoemans/)
 
-We develop a measure of the historical reputation of leaders' using
+We develop a measure of the historical reputation of leaders&lsquo; using
 their Wikipedia pages. 
 
 - [draft](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf)
