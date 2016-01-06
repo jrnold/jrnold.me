@@ -1,0 +1,24 @@
+language: python
+addons:
+  apt:
+    packages:
+    - libxml2-dev
+python:
+- '3.5'
+install:
+- pip install Nikola[extras] awscli
+script:
+- nikola build
+deploy:
+  provider: s3
+  access_key_id: AKIAJ35TSRCIRYSU6C7Q
+  secret_access_key:
+    secure: "kNS/oBh3lDPvgqfVb0z/jK2dKN45HZDX0lssCC5lfY0g+9LtAU+qqADSHmkKPys0WnfGZ5ARxkr8Qtt8/27mJykVfSfj4EYf7jHhESpD3NvaZ0poDT2HHafvhTuI56C/1NKA5g1kKCt4p7tjLVLRzj/TbcWvInGYB4Bo4wTzSq0="
+  region: us-east-1
+  skip_cleanup: true
+  local_dir: output
+  bucket: www.jrnold.me
+branches:
+- master
+    
+

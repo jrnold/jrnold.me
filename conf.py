@@ -109,9 +109,6 @@ NAVIGATION_LINKS = {
         ('https://jrnold.github.io/jrnold-cv/', 'CV'),
         ('/research.html', 'Research'),
         ('/teaching.html', 'Teaching'),
-        #('/blog/index.html', 'Blog'),
-        ('/archive.html', 'Archives'),
-        ('/categories/index.html', 'Tags')
     ),
 }
 
@@ -443,7 +440,7 @@ WRITE_TAG_CLOUD = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
