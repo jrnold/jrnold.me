@@ -109,9 +109,6 @@ NAVIGATION_LINKS = {
         ('https://jrnold.github.io/jrnold-cv/', 'CV'),
         ('/research.html', 'Research'),
         ('/teaching.html', 'Teaching'),
-        #('/blog/index.html', 'Blog'),
-        #('/archive.html', 'Archives'),
-        #('/categories/index.html', 'Tags')
     ),
 }
 
@@ -450,14 +447,14 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 LICENSE = """
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/"><br>
 <img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+src="https://licensebuttons.net/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; 2013-{date}  <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a> {license}'
+CONTENT_FOOTER = 'Contents &copy; 2013-{date}  <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a> {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -612,7 +609,7 @@ SOCIAL_BUTTONS_CODE = ""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
