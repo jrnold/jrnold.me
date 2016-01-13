@@ -102,23 +102,6 @@ quality of forces over time and across wars
 - [current version](https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf)
 - [MPSA 2013 Presentation Slides](https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf) April 12, 2013
 
-## Uncertainty in Military Capabilities and its Effects on Conflict Initiation
-
-Uncertainty and private information military capabilities is one of
-the primary causal mechanisms of war initiation in rationalist
-theories war. However, by their very nature, uncertainty and private
-information are hard to quantify. Most previous attempts to quantify
-ex ante uncertainty use equality in military capabilities to proxy for
-military uncertainty. However, this definition is not a direct measure
-of military uncertainty. This work develops a direct measure of ex
-ante military uncertainty using a Bayesian measurement model that
-combines indicators of measurement error and discrepancies in data on
-military personnel and expenditures from the Correlates of War, SIPRI,
-WMEAT and other sources. To understand the effect of military
-capability uncertainty on conflict initiation this new measure of
-uncertainty is included as an explanatory variable in a model of MID
-initiations.
-
 
 ## Measuring Rulers
 
