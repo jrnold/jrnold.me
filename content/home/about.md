@@ -8,33 +8,34 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+# [interests]
+#   interests = [
+#     "Artificial Intelligence",
+#     "Computational Linguistics",
+#     "Information Retrieval"
+#   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Political Science"
+  institution = "University of Rochester"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Economics and Government"
+  institution = "Dartmouth College"
+  year = 2004
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Political Science at the [University of Washington](https://www.polisci.washington.edu/) and Core Faculty Member in the [Center for Statistics and the Social Sciences](https://www.csss.washington.edu/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I completed my Ph.D. in political science at the [University of Rochester](http://www.rochester.edu/college/psc/new-site/).
+Previously, I was Instructor of Political Science at [Emory University](http://polisci.emory.edu/home/) and a Pre-doctoral Fellow at the [QuanTM](http://www.quantitative.emory.edu/).
+I previously worked as a Research Associate and
+Economist in the
+[Money and Payments Studies](https://www.newyorkfed.org/research/payments_research/index.html)
+research group at the
+[Federal Reserve Bank of New York](https://www.newyorkfed.org/).
