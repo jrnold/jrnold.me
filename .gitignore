@@ -3,3 +3,4 @@
 /venv/
 /.doit.*
 /__pycache__/
+.Rproj.user
