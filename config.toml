@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-24596920-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -51,11 +51,12 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jeffrey B. Arnold"
-  role = "Assistant Professor of Political Science\nCore Faculty in the Center for Statistics and the Social Sciences"
+  role = "Assistant Professor of Political Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Washington", url = "" } ]
+  organizations = [ { name = "University of Washington", url = "https://www.washington.edu/" },
+                    { name = "Center for Statistics and the Social Sciences", url = "https://www.csss.washington.edu/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

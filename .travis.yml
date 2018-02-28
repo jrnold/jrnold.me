@@ -5,13 +5,11 @@ addons:
     - libxml2-dev
     - hunspell
 python:
-- '3.5'
+- '3.6'
 install:
 - pip install Nikola[extras] awscli
 script:
 - nikola build
-- ./spell-check.sh
-- ./check-links.sh
 deploy:
   provider: s3
   access_key_id: AKIAJ35TSRCIRYSU6C7Q
@@ -23,5 +21,5 @@ deploy:
   bucket: www.jrnold.me
 branches:
 - master
-    
+
 
