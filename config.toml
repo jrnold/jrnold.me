@@ -106,7 +106,7 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -221,6 +221,16 @@ defaultContentLanguageInSubdir = false
     link = "mailto:jeffrey.arnold@gmail.com"
 
   [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/jrnold"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-9953-3904"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/jrnld"
@@ -228,12 +238,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=N2NJ_WoAAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//github.com/jrnold"
+    link = "www.linkedin.com/in/jrnold"
 
 
 # Navigation Links
@@ -273,6 +283,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "CV"
+  url = "https://jrnold.github.io/jrnold-cv/"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]

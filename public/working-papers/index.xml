@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working-papers on Jeffrey B. Arnold</title>
+    <link>/working-papers/</link>
+    <description>Recent content in Working-papers on Jeffrey B. Arnold</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <atom:link href="/working-papers/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bayesian Shrinkage in Dynamic Linear Models: Unifying Smoothing and Structural Break Models</title>
+      <link>/working-papers/smoothing-breaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/smoothing-breaks/</guid>
+      <description>&lt;p&gt;This develops a method for estimating time varying parameters that unifies change-point and smoothing models.
+It unifies these approaches by noting that change point models are simply a case of a sparse parameter model in which the sparsity is over the difference rather than the level of the parameters.
+The method presented in the essay consists of combining dynamic linear models with newly developed Bayesian shrinkage prior distributions.
+This method has several advantages over existing change point models.
+First,  it does not require choosing a specific number of change points.
+In fact, it does not require the researcher to choose between smoothly varying and change point models for the parameter of interest since the sparsity of parameter changes can itself be estimated.
+Second, This method is extremely flexible, and can be extended to parameters in a variety of regression and time-series models.
+Third, it can also be used to model change points in multiple parameters that could be either independent or correlated.
+Fourth, since it is a special case of dynamic linear models, computationally efficient methods exist to estimate and sample from it.
+While the computationally efficient methods to estimate dynamic linear models are well known, they are not included in general purpose Bayesian software.
+In this essay, I provide implementations of these methods in &lt;code&gt;Stan&lt;/code&gt;, which can be found on &lt;a href=&#34;https://github.com/jrnold/stan_headers&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_PolmethXXX_Poster.pdf&#34; target=&#34;_blank&#34;&gt;Polmeth XXX Poster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Civil War as a Hidden Markov Model</title>
+      <link>/working-papers/civil-war-as-a-hmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/civil-war-as-a-hmm/</guid>
+      <description>&lt;p&gt;This paper estimates a model of civil war prevalence with a hidden
+Markov model (HMM) to account for measurement error in classifying
+civil wars. Since there exist multiple coding rules for civil war with
+substantial disagreement, each of these coding rules is treated as a
+noisy indicator of a latent concept. A HMM is used to classify
+country-years into latent states of civil war and peace and to model
+the probability of civil war onset and continuation with these latent
+states. The estimated classification supports an inclusive concept of
+civil war with a low threshold for what constitutes a civil war. The
+only statistically significant covariates in the civil war transition
+models are population and GDP on civil war onset.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Markets and the Onset of the American Civil War</title>
+      <link>/working-papers/onset-american-civil-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/onset-american-civil-war/</guid>
+      <description>&lt;p&gt;I estimate the market implied ex ante probability of the onset of   the American Civil War using U.S.
+government and state bonds. Surprisingly, financial markets were surprised by the Battle of Fort Sumter
+and the start of the war. Prior to Abraham Lincoln’s election in November 1860, the market assigned
+almost no probability to a war. Even after the secession of several states, the week before the Battle of
+Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-10-04.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Rulers</title>
+      <link>/working-papers/measuring-rulers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/measuring-rulers/</guid>
+      <description>&lt;p&gt;We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf&#34; target=&#34;_blank&#34;&gt;draft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;, Annual Meeting of the Midwest Political Science Association,
+Chicago, IL, April 13, 2013.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War</title>
+      <link>/working-papers/american-civil-war-financial-market-battlefields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/american-civil-war-financial-market-battlefields/</guid>
+      <description>&lt;p&gt;This paper estimates the effects of major battles in the American
+Civil War on the price of Union bonds.  Bond prices are a function of
+expected future cash flows, and war results can have a large influence
+on the the expectation of the timely payment of those cash flows.
+Thus, bond prices provide a method to assess the effects of war events
+on the expected war result.  This allows for understanding how events
+within war influenced the expected war result.  Assessing the
+importance of war events on war termination provides another method
+for researchers to &amp;ldquo;open up the black box of war&amp;rdquo;.  In this
+application, initial results suggest that for the Union bonds
+considered, the average Confederate victory decreased the price by
+3.3% Union victory increased it by 1%.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Producing Death: Estimating the Offense-Defense Balance from the Production Function of Battle Casualties</title>
+      <link>/working-papers/producing-death/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/producing-death/</guid>
+      <description>&lt;p&gt;250 years ago wars were fought with muskets. Today they are fought
+with missiles. Yet most empirical and theoretical literature has
+treated war as a homogeneous process across time. This paper develops
+a theoretical and quantitative apparatus to describe a key source of
+heterogeneity in wars, the technology of combat. The technology of
+combat is the shape of the function that takes military forces as
+inputs and produces casualties as its outputs, i.e. the production
+function of war. Using a Bayesian hierarchical model, I estimate the
+coefficients of this function at the war level. These estimates
+provide theoretically derived empirical estimates of the
+offense-defense balance and the relationship between the quantity and
+quality of forces over time and across wars&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

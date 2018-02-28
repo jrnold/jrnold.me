@@ -68,8 +68,32 @@
     
     <url>
     
+      <loc>/teaching/rochester-psc205-2012/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/smoothing-breaks/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/civil-war-as-a-hmm/</loc>
     </url>
     
   
@@ -97,9 +121,41 @@
     
     <url>
     
+      <loc>/working-papers/onset-american-civil-war/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/measuring-rulers/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/american-civil-war-financial-market-battlefields/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/producing-death/</loc>
     </url>
     
   
@@ -128,6 +184,24 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/</loc>
       <priority>0</priority>
     </url>
     
