@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -259,34 +259,14 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+# [[menu.main]]
+#  name = "Teaching"
+#  url = "teaching/"
+#  weight = 5
 
 [[menu.main]]
   name = "CV"
-  url = "https://jrnold.github.io/jrnold-cv/"
+  url = "https://cv.jrnold.io"
   weight = 7
 
 # Taxonomies.

@@ -10,33 +10,115 @@
     <atom:link href="/teaching/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>/teaching/rochester-psc205-2012/</link>
+      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
+      <link>/teaching/uw-csss564-2017-spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/rochester-psc205-2012/</guid>
+      <guid>/teaching/uw-csss564-2017-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
+      <link>/teaching/uw-csss564-2018-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-csss564-2018-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2014-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/emory-pols208-2014-fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2015-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/emory-pols208-2015-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2016-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2016-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2017-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2017-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2018-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2018-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols503-2017-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2017-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
+      <link>/teaching/uw-pols503-2015-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2015-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
+      <link>/teaching/uw-pols503-2016-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2016-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
+      <link>/teaching/uw-psc503-2018-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-psc503-2018-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSC 205: Introductory Statistical Methods</title>
+      <link>/teaching/rochester-psc205-2012-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc205-2012-spring/</guid>
       <description>
-
-&lt;p&gt;.. title: PSC 205: Introductory Statistical Methods (University of Rochester, Spring 2012)
-.. slug: psc205
-.. date: 2013/03/11 15:49
-.. tags:
-.. link:
-.. description:
-&amp;ndash;&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;I was a teaching assistant for this course, taught by &lt;a href=&#34;http://www.rochester.edu/college/psc/signorino/&#34; target=&#34;_blank&#34;&gt;Curtis Signorino&lt;/a&gt; in
-Spring 2012. I was responsible for planning and teaching weekly lab
-sessions and writing and grading weekly homework assignments.&lt;/p&gt;
-
-&lt;p&gt;This course used Agresti and Finlay&amp;lsquo;s
-&lt;a href=&#34;http://books.google.com/books?id=FMXaAAAAMAAJ&#34; target=&#34;_blank&#34;&gt;Statistical Methods for the Social Sciences&lt;/a&gt;.
-Since this course used &lt;em&gt;R&lt;/em&gt;, I wrote a package &lt;a href=&#34;https://github.com/jrnold/r-smss&#34; target=&#34;_blank&#34;&gt;smss&lt;/a&gt; which
-contains the datasets used in the book.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/psc205_syll2012.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;labs&#34;&gt;Labs&lt;/h3&gt;
+&lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
 
 &lt;p&gt;Lab session notes and associated R code.&lt;/p&gt;
 
@@ -67,8 +149,7 @@ contains the datasets used in the book.&lt;/p&gt;
 &lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab9.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;lab 11
 &lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;homework&#34;&gt;Homework&lt;/h3&gt;
@@ -132,6 +213,34 @@ contains the datasets used in the book.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/therm.rda&#34; target=&#34;_blank&#34;&gt;therm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PSC/ECO 288: Game Theory</title>
+      <link>/teaching/rochester-psc288-2011-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc288-2011-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSC/IR 106: Introduction to International Relations</title>
+      <link>/teaching/rochester-psc106-2010-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc106-2010-fall/</guid>
+      <description>&lt;p&gt;sdfj;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PSC/IR 265: Civil War and the International System</title>
+      <link>/teaching/rochester-psc256-2012-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc256-2012-fall/</guid>
+      <description></description>
     </item>
     
   </channel>

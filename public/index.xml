@@ -48,131 +48,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/teaching/rochester-psc205-2012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/rochester-psc205-2012/</guid>
-      <description>
-
-&lt;p&gt;.. title: PSC 205: Introductory Statistical Methods (University of Rochester, Spring 2012)
-.. slug: psc205
-.. date: 2013/03/11 15:49
-.. tags:
-.. link:
-.. description:
-&amp;ndash;&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;I was a teaching assistant for this course, taught by &lt;a href=&#34;http://www.rochester.edu/college/psc/signorino/&#34; target=&#34;_blank&#34;&gt;Curtis Signorino&lt;/a&gt; in
-Spring 2012. I was responsible for planning and teaching weekly lab
-sessions and writing and grading weekly homework assignments.&lt;/p&gt;
-
-&lt;p&gt;This course used Agresti and Finlay&amp;lsquo;s
-&lt;a href=&#34;http://books.google.com/books?id=FMXaAAAAMAAJ&#34; target=&#34;_blank&#34;&gt;Statistical Methods for the Social Sciences&lt;/a&gt;.
-Since this course used &lt;em&gt;R&lt;/em&gt;, I wrote a package &lt;a href=&#34;https://github.com/jrnold/r-smss&#34; target=&#34;_blank&#34;&gt;smss&lt;/a&gt; which
-contains the datasets used in the book.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/psc205_syll2012.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;labs&#34;&gt;Labs&lt;/h3&gt;
-
-&lt;p&gt;Lab session notes and associated R code.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;lab1
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab2
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab3
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab4
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab5
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab6
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab7
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab7-midterm-review.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab8
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab8.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab9
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab9.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lab 11
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;homework&#34;&gt;Homework&lt;/h3&gt;
-
-&lt;p&gt;Homework assignments and solutions&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Homework 1:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 2:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 3:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 4:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 5:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 6:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 7:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 8:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 9:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/chesterfields.mov&#34; target=&#34;_blank&#34;&gt;Chesterfields Ad&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/WillieHorton_ad.mov&#34; target=&#34;_blank&#34;&gt;Willie Horton Ad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 10:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework 11:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
-
-&lt;p&gt;Datasets used in homeworks and labs&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SOPA (Stop Online Piracy Act) support and campaign contributions:
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.rda&#34; target=&#34;_blank&#34;&gt;data&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.pdf&#34; target=&#34;_blank&#34;&gt;codebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/Cars93.rda&#34; target=&#34;_blank&#34;&gt;Cars93&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ANES 2008: &lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008.rda&#34; target=&#34;_blank&#34;&gt;data&lt;/a&gt;,
-&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008_codebook.pdf&#34; target=&#34;_blank&#34;&gt;codebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anorexia.rda&#34; target=&#34;_blank&#34;&gt;anorexia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/arms.rda&#34; target=&#34;_blank&#34;&gt;arms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/incomes.rda&#34; target=&#34;_blank&#34;&gt;incomes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/crimeDP.rda&#34; target=&#34;_blank&#34;&gt;crimeDP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/mental.impairment.rda&#34; target=&#34;_blank&#34;&gt;mental.impairment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/therm.rda&#34; target=&#34;_blank&#34;&gt;therm&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bayesian Shrinkage in Dynamic Linear Models: Unifying Smoothing and Structural Break Models</title>
       <link>/working-papers/smoothing-breaks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -194,6 +69,24 @@ In this essay, I provide implementations of these methods in &lt;code&gt;Stan&lt
 &lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_PolmethXXX_Poster.pdf&#34; target=&#34;_blank&#34;&gt;Polmeth XXX Poster&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
+      <link>/teaching/uw-csss564-2017-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-csss564-2017-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
+      <link>/teaching/uw-csss564-2018-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-csss564-2018-spring/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -255,55 +148,57 @@ Chicago, IL, April 13, 2013.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War</title>
-      <link>/working-papers/american-civil-war-financial-market-battlefields/</link>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2014-fall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/working-papers/american-civil-war-financial-market-battlefields/</guid>
-      <description>&lt;p&gt;This paper estimates the effects of major battles in the American
-Civil War on the price of Union bonds.  Bond prices are a function of
-expected future cash flows, and war results can have a large influence
-on the the expectation of the timely payment of those cash flows.
-Thus, bond prices provide a method to assess the effects of war events
-on the expected war result.  This allows for understanding how events
-within war influenced the expected war result.  Assessing the
-importance of war events on war termination provides another method
-for researchers to &amp;ldquo;open up the black box of war&amp;rdquo;.  In this
-application, initial results suggest that for the Union bonds
-considered, the average Confederate victory decreased the price by
-3.3% Union victory increased it by 1%.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/teaching/emory-pols208-2014-fall/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Producing Death: Estimating the Offense-Defense Balance from the Production Function of Battle Casualties</title>
-      <link>/working-papers/producing-death/</link>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2015-spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/working-papers/producing-death/</guid>
-      <description>&lt;p&gt;250 years ago wars were fought with muskets. Today they are fought
-with missiles. Yet most empirical and theoretical literature has
-treated war as a homogeneous process across time. This paper develops
-a theoretical and quantitative apparatus to describe a key source of
-heterogeneity in wars, the technology of combat. The technology of
-combat is the shape of the function that takes military forces as
-inputs and produces casualties as its outputs, i.e. the production
-function of war. Using a Bayesian hierarchical model, I estimate the
-coefficients of this function at the war level. These estimates
-provide theoretically derived empirical estimates of the
-offense-defense balance and the relationship between the quantity and
-quality of forces over time and across wars&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/teaching/emory-pols208-2015-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2016-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2016-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2017-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2017-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2018-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2018-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols503-2017-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2017-spring/</guid>
+      <description></description>
     </item>
     
   </channel>

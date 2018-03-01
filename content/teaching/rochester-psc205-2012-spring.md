@@ -1,24 +1,17 @@
-<!-- 
-.. title: PSC 205: Introductory Statistical Methods (University of Rochester, Spring 2012)
-.. slug: psc205
-.. date: 2013/03/11 15:49
-.. tags: 
-.. link:
-.. description: 
--->
-
-I was a teaching assistant for this course, taught by [Curtis Signorino](http://www.rochester.edu/college/psc/signorino/) in 
-Spring 2012. I was responsible for planning and teaching weekly lab
-sessions and writing and grading weekly homework assignments.
-
-This course used Agresti and Finlay&lsquo;s
-[Statistical Methods for the Social Sciences](http://books.google.com/books?id=FMXaAAAAMAAJ).
-Since this course used *R*, I wrote a package [smss](https://github.com/jrnold/r-smss) which
-contains the datasets used in the book.
+---
+title: "PSC 205: Introductory Statistical Methods"
+institution: "University of Rochester"
+term: "Spring"
+year: 2012
+course_type: "Undergraduate"
+role: "Teaching Assistant"
+instructor:
+  name: "Curtis Signorino"
+---
 
 [Syllabus](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/psc205_syll2012.pdf)
 
-### Labs
+## Labs
 
 Lab session notes and associated R code.
 
@@ -49,12 +42,12 @@ Lab session notes and associated R code.
 - lab 11
   [pdf](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.pdf),
   [R code](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R)
-  
+
 ### Homework
 
 Homework assignments and solutions
 
-- Homework 1: 
+- Homework 1:
   [assignment](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1.pdf),
   [solutions](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1-solutions.pdf)
 - Homework 2:
@@ -96,10 +89,10 @@ Homework assignments and solutions
 Datasets used in homeworks and labs
 
 - SOPA (Stop Online Piracy Act) support and campaign contributions:
-  [data](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.rda), 
+  [data](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.rda),
   [codebook](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.pdf)
 - [Cars93](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/Cars93.rda)
-- ANES 2008: [data](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008.rda), 
+- ANES 2008: [data](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008.rda),
   [codebook](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008_codebook.pdf)
 -  [anorexia](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anorexia.rda)
 -  [arms](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/arms.rda)
@@ -107,4 +100,3 @@ Datasets used in homeworks and labs
 -  [crimeDP](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/crimeDP.rda)
 -  [mental.impairment](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/mental.impairment.rda)
 -  [therm](https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/therm.rda)
-
