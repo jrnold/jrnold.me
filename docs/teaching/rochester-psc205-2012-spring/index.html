@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.40.1" />
+  <meta name="author" content="Jeffrey B. Arnold">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Syllabus
+Labs Lab session notes and associated R code.
+ lab1 pdf, R code lab2 pdf, R code lab3 pdf, R code lab4 pdf, R code lab5 pdf, R code lab6 pdf, R code lab7 pdf lab8 pdf lab9 pdf lab 11 pdf, R code  Homework Homework assignments and solutions
+ Homework 1: assignment, solutions Homework 2: assignment, solutions Homework 3: assignment, solutions Homework 4: assignment, solutions Homework 5: assignment, solutions Homework 6: assignment, solutions Homework 7: assignment, solutions Homework 8: assignment, solutions Homework 9: assignment, solutions, Chesterfields Ad, Willie Horton Ad Homework 10: assignment, solutions Homework 11: assignment, solutions  Data Datasets used in homeworks and labs">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/teaching/rochester-psc205-2012-spring/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-24596920-1', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jeffrey B. Arnold">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Jeffrey B. Arnold">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/teaching/rochester-psc205-2012-spring/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@jrnld">
+  <meta property="twitter:creator" content="@jrnld">
+  
+  <meta property="og:site_name" content="Jeffrey B. Arnold">
+  <meta property="og:url" content="/teaching/rochester-psc205-2012-spring/">
+  <meta property="og:title" content="PSC 205: Introductory Statistical Methods | Jeffrey B. Arnold">
+  <meta property="og:description" content="Syllabus
+Labs Lab session notes and associated R code.
+ lab1 pdf, R code lab2 pdf, R code lab3 pdf, R code lab4 pdf, R code lab5 pdf, R code lab6 pdf, R code lab7 pdf lab8 pdf lab9 pdf lab 11 pdf, R code  Homework Homework assignments and solutions
+ Homework 1: assignment, solutions Homework 2: assignment, solutions Homework 3: assignment, solutions Homework 4: assignment, solutions Homework 5: assignment, solutions Homework 6: assignment, solutions Homework 7: assignment, solutions Homework 8: assignment, solutions Homework 9: assignment, solutions, Chesterfields Ad, Willie Horton Ad Homework 10: assignment, solutions Homework 11: assignment, solutions  Data Datasets used in homeworks and labs">
+  <meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+  <title>PSC 205: Introductory Statistical Methods | Jeffrey B. Arnold</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Jeffrey B. Arnold</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+            
+          
+        
+
+        <li class="nav-item">
+          <a href="https://cv.jrnold.io" target="_blank" rel="noopener">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">PSC 205: Introductory Statistical Methods</h1>
+
+      <li>Institution: University of Rochester </li>
+      <li>When:
+         2012,
+         
+           Spring
+         
+      </li>
+      <li>
+        Level: Undergraduate
+      </li>
+      <li>
+        Role: Teaching Assistant
+      </li>
+      
+    </ul>
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/psc205_syll2012.pdf" target="_blank">Syllabus</a></p>
+
+<h2 id="labs">Labs</h2>
+
+<p>Lab session notes and associated R code.</p>
+
+<ul>
+<li>lab1
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.R" target="_blank">R code</a></li>
+<li>lab2
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.R" target="_blank">R code</a></li>
+<li>lab3
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.R" target="_blank">R code</a></li>
+<li>lab4
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.R" target="_blank">R code</a></li>
+<li>lab5
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.R" target="_blank">R code</a></li>
+<li>lab6
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.R" target="_blank">R code</a></li>
+<li>lab7
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab7-midterm-review.pdf" target="_blank">pdf</a></li>
+<li>lab8
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab8.pdf" target="_blank">pdf</a></li>
+<li>lab9
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab9.pdf" target="_blank">pdf</a></li>
+<li>lab 11
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.pdf" target="_blank">pdf</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R" target="_blank">R code</a></li>
+</ul>
+
+<h3 id="homework">Homework</h3>
+
+<p>Homework assignments and solutions</p>
+
+<ul>
+<li>Homework 1:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 2:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 3:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 4:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 5:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 6:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 7:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 8:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 9:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9-solutions.pdf" target="_blank">solutions</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/chesterfields.mov" target="_blank">Chesterfields Ad</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/WillieHorton_ad.mov" target="_blank">Willie Horton Ad</a></li>
+<li>Homework 10:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10-solutions.pdf" target="_blank">solutions</a></li>
+<li>Homework 11:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11.pdf" target="_blank">assignment</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11-solutions.pdf" target="_blank">solutions</a></li>
+</ul>
+
+<h3 id="data">Data</h3>
+
+<p>Datasets used in homeworks and labs</p>
+
+<ul>
+<li>SOPA (Stop Online Piracy Act) support and campaign contributions:
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.rda" target="_blank">data</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.pdf" target="_blank">codebook</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/Cars93.rda" target="_blank">Cars93</a></li>
+<li>ANES 2008: <a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008.rda" target="_blank">data</a>,
+<a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008_codebook.pdf" target="_blank">codebook</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anorexia.rda" target="_blank">anorexia</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/arms.rda" target="_blank">arms</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/incomes.rda" target="_blank">incomes</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/crimeDP.rda" target="_blank">crimeDP</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/mental.impairment.rda" target="_blank">mental.impairment</a></li>
+<li><a href="https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/therm.rda" target="_blank">therm</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+    
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
