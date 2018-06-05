@@ -11,40 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
+      <link>/working-papers/commanders-and-military-effectiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/working-papers/commanders-and-military-effectiveness/</guid>
+      <description>&lt;p&gt;How do the characteristics of military leaders relate to battlefield outcomes? To answer
+this question, we employ original battle-level data and biographical information on hundreds
+of commanders in more than 250 battles in the American Civil War. We examine the relationship
+between two common measures of battlefield success (victory and casualties) and
+two latent features of commanders—competence and loyalty—that have long been seen as
+important in the broader study of executive appointments. We find that competent commanders
+are associated with more successful battlefield outcomes, as are more loyal Confederate
+commanders. More broadly, our analysis suggests that focusing on the relationship between
+military appointments and battlefield outcomes—with the latter’s relatively clear definition
+of “success”—allows for direct examination of the relationship between appointee traits and
+organizational performance. As such, our results have implications for the study of conflict as
+well as bureaucratic politics.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -110,6 +94,26 @@ models are population and GDP on civil war onset.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covering the Campaign: Election Events in Emerging Democracies</title>
+      <link>/working-papers/covering-the-campaign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/covering-the-campaign/</guid>
+      <description>&lt;p&gt;Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore
+no consistent theoretical framework to guide defining, measuring, and analyzing election coverage,
+particularly in emerging democracies. We apply topic models and supervised learning methods to a
+news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s
+2014 election. We use a theoretically informed classification of election coverage to demonstrate how
+variation in “narrow” or “broad” conceptions of elections generate variation in codings of coverage
+of campaign events and activities reported in the media. Our analysis results in radically distinct
+representations of political actors and institutions in the electoral landscape: a narrow classification
+includes cues to race, party, and incumbent performance in coverage; a broad definition reflects public
+policy concerns and service delivery outcomes. Further, examining messaging directly from political
+actors on social media, we find social media messages by and large reflect the news reported in traditional media and further demonstrate politicians’ diverse appeals. We discuss the challenges and opportunities our research and method pose for how scholars conceive of media’s role in elections based on their theoretical priors about the form, content, and impact of campaigns in emerging democracies. Our results also provide methods, evidence, and lessons learned for replication to study (electoral and non-electoral) events in other developing country settings.&lt;/p&gt;
 </description>
     </item>
     
@@ -198,6 +202,15 @@ Chicago, IL, April 13, 2013.&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-pols503-2017-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
+      <link>/teaching/uw-pols503-2015-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2015-spring/</guid>
       <description></description>
     </item>
     

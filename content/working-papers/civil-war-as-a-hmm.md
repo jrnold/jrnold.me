@@ -1,5 +1,7 @@
 ---
 title: "Civil War as a Hidden Markov Model"
+authors:
+- Jeffrey B. Arnold
 ---
 
 This paper estimates a model of civil war prevalence with a hidden

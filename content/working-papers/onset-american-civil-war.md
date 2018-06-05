@@ -1,5 +1,7 @@
 ---
 title: "Financial Markets and the Onset of the American Civil War"
+authors:
+- Jeffrey B. Arnold
 ---
 
 I estimate the market implied ex ante probability of the onset of   the American Civil War using U.S.

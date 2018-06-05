@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -50,8 +41,8 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/africa/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -59,8 +50,16 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/working-papers/commanders-and-military-effectiveness/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/american-civil-war/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -69,6 +68,15 @@
     <url>
     
       <loc>/working-papers/smoothing-breaks/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/bureaucratic-politics/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -109,8 +117,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/comparative-politics/</loc>
       <priority>0</priority>
     </url>
     
@@ -119,9 +126,16 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/conflict/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/working-papers/covering-the-campaign/</loc>
     </url>
     
   
@@ -130,6 +144,15 @@
     <url>
     
       <loc>/working-papers/onset-american-civil-war/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/international-relations/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -283,16 +306,6 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -313,6 +326,15 @@
     <url>
     
       <loc>/teaching/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/text-as-data/</loc>
       <priority>0</priority>
     </url>
     

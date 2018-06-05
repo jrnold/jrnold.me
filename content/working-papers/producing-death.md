@@ -1,5 +1,7 @@
 ---
 title: "Producing Death: Estimating the Offense-Defense Balance from the Production Function of Battle Casualties"
+authors:
+- Jeffrey B. Arnold
 ---
 
 250 years ago wars were fought with muskets. Today they are fought

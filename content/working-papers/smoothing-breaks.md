@@ -1,5 +1,7 @@
 ---
 title: "Bayesian Shrinkage in Dynamic Linear Models: Unifying Smoothing and Structural Break Models"
+authors:
+- Jeffrey B. Arnold
 ---
 
 This develops a method for estimating time varying parameters that unifies change-point and smoothing models.

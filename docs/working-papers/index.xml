@@ -10,6 +10,27 @@
     <atom:link href="/working-papers/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
+      <link>/working-papers/commanders-and-military-effectiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/commanders-and-military-effectiveness/</guid>
+      <description>&lt;p&gt;How do the characteristics of military leaders relate to battlefield outcomes? To answer
+this question, we employ original battle-level data and biographical information on hundreds
+of commanders in more than 250 battles in the American Civil War. We examine the relationship
+between two common measures of battlefield success (victory and casualties) and
+two latent features of commanders—competence and loyalty—that have long been seen as
+important in the broader study of executive appointments. We find that competent commanders
+are associated with more successful battlefield outcomes, as are more loyal Confederate
+commanders. More broadly, our analysis suggests that focusing on the relationship between
+military appointments and battlefield outcomes—with the latter’s relatively clear definition
+of “success”—allows for direct examination of the relationship between appointee traits and
+organizational performance. As such, our results have implications for the study of conflict as
+well as bureaucratic politics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bayesian Shrinkage in Dynamic Linear Models: Unifying Smoothing and Structural Break Models</title>
       <link>/working-papers/smoothing-breaks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,6 +75,26 @@ models are population and GDP on civil war onset.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Covering the Campaign: Election Events in Emerging Democracies</title>
+      <link>/working-papers/covering-the-campaign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working-papers/covering-the-campaign/</guid>
+      <description>&lt;p&gt;Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore
+no consistent theoretical framework to guide defining, measuring, and analyzing election coverage,
+particularly in emerging democracies. We apply topic models and supervised learning methods to a
+news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s
+2014 election. We use a theoretically informed classification of election coverage to demonstrate how
+variation in “narrow” or “broad” conceptions of elections generate variation in codings of coverage
+of campaign events and activities reported in the media. Our analysis results in radically distinct
+representations of political actors and institutions in the electoral landscape: a narrow classification
+includes cues to race, party, and incumbent performance in coverage; a broad definition reflects public
+policy concerns and service delivery outcomes. Further, examining messaging directly from political
+actors on social media, we find social media messages by and large reflect the news reported in traditional media and further demonstrate politicians’ diverse appeals. We discuss the challenges and opportunities our research and method pose for how scholars conceive of media’s role in elections based on their theoretical priors about the form, content, and impact of campaigns in emerging democracies. Our results also provide methods, evidence, and lessons learned for replication to study (electoral and non-electoral) events in other developing country settings.&lt;/p&gt;
 </description>
     </item>
     
@@ -109,11 +150,6 @@ for researchers to &amp;ldquo;open up the black box of war&amp;rdquo;.  In this
 application, initial results suggest that for the Union bonds
 considered, the average Confederate victory decreased the price by
 3.3% Union victory increased it by 1%.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Pricing_Costly_Lottery_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
