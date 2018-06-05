@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <atom:link href="/working-papers/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/working-papers/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
@@ -15,19 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/commanders-and-military-effectiveness/</guid>
-      <description>&lt;p&gt;How do the characteristics of military leaders relate to battlefield outcomes? To answer
-this question, we employ original battle-level data and biographical information on hundreds
-of commanders in more than 250 battles in the American Civil War. We examine the relationship
-between two common measures of battlefield success (victory and casualties) and
-two latent features of commanders—competence and loyalty—that have long been seen as
-important in the broader study of executive appointments. We find that competent commanders
-are associated with more successful battlefield outcomes, as are more loyal Confederate
-commanders. More broadly, our analysis suggests that focusing on the relationship between
-military appointments and battlefield outcomes—with the latter’s relatively clear definition
-of “success”—allows for direct examination of the relationship between appointee traits and
-organizational performance. As such, our results have implications for the study of conflict as
-well as bureaucratic politics.&lt;/p&gt;
-</description>
+      <description>How do the characteristics of military leaders relate to battlefield outcomes? To answer this question, we employ original battle-level data and biographical information on hundreds of commanders in more than 250 battles in the American Civil War. We examine the relationship between two common measures of battlefield success (victory and casualties) and two latent features of commanders—competence and loyalty—that have long been seen as important in the broader study of executive appointments.</description>
     </item>
     
     <item>
@@ -36,22 +26,7 @@ well as bureaucratic politics.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/smoothing-breaks/</guid>
-      <description>&lt;p&gt;This develops a method for estimating time varying parameters that unifies change-point and smoothing models.
-It unifies these approaches by noting that change point models are simply a case of a sparse parameter model in which the sparsity is over the difference rather than the level of the parameters.
-The method presented in the essay consists of combining dynamic linear models with newly developed Bayesian shrinkage prior distributions.
-This method has several advantages over existing change point models.
-First,  it does not require choosing a specific number of change points.
-In fact, it does not require the researcher to choose between smoothly varying and change point models for the parameter of interest since the sparsity of parameter changes can itself be estimated.
-Second, This method is extremely flexible, and can be extended to parameters in a variety of regression and time-series models.
-Third, it can also be used to model change points in multiple parameters that could be either independent or correlated.
-Fourth, since it is a special case of dynamic linear models, computationally efficient methods exist to estimate and sample from it.
-While the computationally efficient methods to estimate dynamic linear models are well known, they are not included in general purpose Bayesian software.
-In this essay, I provide implementations of these methods in &lt;code&gt;Stan&lt;/code&gt;, which can be found on &lt;a href=&#34;https://github.com/jrnold/stan_headers&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_PolmethXXX_Poster.pdf&#34; target=&#34;_blank&#34;&gt;Polmeth XXX Poster&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This develops a method for estimating time varying parameters that unifies change-point and smoothing models. It unifies these approaches by noting that change point models are simply a case of a sparse parameter model in which the sparsity is over the difference rather than the level of the parameters. The method presented in the essay consists of combining dynamic linear models with newly developed Bayesian shrinkage prior distributions. This method has several advantages over existing change point models.</description>
     </item>
     
     <item>
@@ -60,22 +35,7 @@ In this essay, I provide implementations of these methods in &lt;code&gt;Stan&lt
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/civil-war-as-a-hmm/</guid>
-      <description>&lt;p&gt;This paper estimates a model of civil war prevalence with a hidden
-Markov model (HMM) to account for measurement error in classifying
-civil wars. Since there exist multiple coding rules for civil war with
-substantial disagreement, each of these coding rules is treated as a
-noisy indicator of a latent concept. A HMM is used to classify
-country-years into latent states of civil war and peace and to model
-the probability of civil war onset and continuation with these latent
-states. The estimated classification supports an inclusive concept of
-civil war with a low threshold for what constitutes a civil war. The
-only statistically significant covariates in the civil war transition
-models are population and GDP on civil war onset.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This paper estimates a model of civil war prevalence with a hidden Markov model (HMM) to account for measurement error in classifying civil wars. Since there exist multiple coding rules for civil war with substantial disagreement, each of these coding rules is treated as a noisy indicator of a latent concept. A HMM is used to classify country-years into latent states of civil war and peace and to model the probability of civil war onset and continuation with these latent states.</description>
     </item>
     
     <item>
@@ -84,18 +44,7 @@ models are population and GDP on civil war onset.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/covering-the-campaign/</guid>
-      <description>&lt;p&gt;Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore
-no consistent theoretical framework to guide defining, measuring, and analyzing election coverage,
-particularly in emerging democracies. We apply topic models and supervised learning methods to a
-news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s
-2014 election. We use a theoretically informed classification of election coverage to demonstrate how
-variation in “narrow” or “broad” conceptions of elections generate variation in codings of coverage
-of campaign events and activities reported in the media. Our analysis results in radically distinct
-representations of political actors and institutions in the electoral landscape: a narrow classification
-includes cues to race, party, and incumbent performance in coverage; a broad definition reflects public
-policy concerns and service delivery outcomes. Further, examining messaging directly from political
-actors on social media, we find social media messages by and large reflect the news reported in traditional media and further demonstrate politicians’ diverse appeals. We discuss the challenges and opportunities our research and method pose for how scholars conceive of media’s role in elections based on their theoretical priors about the form, content, and impact of campaigns in emerging democracies. Our results also provide methods, evidence, and lessons learned for replication to study (electoral and non-electoral) events in other developing country settings.&lt;/p&gt;
-</description>
+      <description>Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore no consistent theoretical framework to guide defining, measuring, and analyzing election coverage, particularly in emerging democracies. We apply topic models and supervised learning methods to a news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s 2014 election.</description>
     </item>
     
     <item>
@@ -104,16 +53,7 @@ actors on social media, we find social media messages by and large reflect the n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/onset-american-civil-war/</guid>
-      <description>&lt;p&gt;I estimate the market implied ex ante probability of the onset of   the American Civil War using U.S.
-government and state bonds. Surprisingly, financial markets were surprised by the Battle of Fort Sumter
-and the start of the war. Prior to Abraham Lincoln’s election in November 1860, the market assigned
-almost no probability to a war. Even after the secession of several states, the week before the Battle of
-Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-10-04.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I estimate the market implied ex ante probability of the onset of the American Civil War using U.S. government and state bonds. Surprisingly, financial markets were surprised by the Battle of Fort Sumter and the start of the war. Prior to Abraham Lincoln’s election in November 1860, the market assigned almost no probability to a war. Even after the secession of several states, the week before the Battle of Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.</description>
     </item>
     
     <item>
@@ -122,14 +62,8 @@ Fort Sumter, the market assigned a negligible probability, approximately 5%, to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/measuring-rulers/</guid>
-      <description>&lt;p&gt;We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf&#34; target=&#34;_blank&#34;&gt;draft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;, Annual Meeting of the Midwest Political Science Association,
-Chicago, IL, April 13, 2013.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.
+ draft presentation, Annual Meeting of the Midwest Political Science Association, Chicago, IL, April 13, 2013.  </description>
     </item>
     
     <item>
@@ -138,19 +72,7 @@ Chicago, IL, April 13, 2013.&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/american-civil-war-financial-market-battlefields/</guid>
-      <description>&lt;p&gt;This paper estimates the effects of major battles in the American
-Civil War on the price of Union bonds.  Bond prices are a function of
-expected future cash flows, and war results can have a large influence
-on the the expectation of the timely payment of those cash flows.
-Thus, bond prices provide a method to assess the effects of war events
-on the expected war result.  This allows for understanding how events
-within war influenced the expected war result.  Assessing the
-importance of war events on war termination provides another method
-for researchers to &amp;ldquo;open up the black box of war&amp;rdquo;.  In this
-application, initial results suggest that for the Union bonds
-considered, the average Confederate victory decreased the price by
-3.3% Union victory increased it by 1%.&lt;/p&gt;
-</description>
+      <description>This paper estimates the effects of major battles in the American Civil War on the price of Union bonds. Bond prices are a function of expected future cash flows, and war results can have a large influence on the the expectation of the timely payment of those cash flows. Thus, bond prices provide a method to assess the effects of war events on the expected war result. This allows for understanding how events within war influenced the expected war result.</description>
     </item>
     
     <item>
@@ -159,24 +81,7 @@ considered, the average Confederate victory decreased the price by
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/working-papers/producing-death/</guid>
-      <description>&lt;p&gt;250 years ago wars were fought with muskets. Today they are fought
-with missiles. Yet most empirical and theoretical literature has
-treated war as a homogeneous process across time. This paper develops
-a theoretical and quantitative apparatus to describe a key source of
-heterogeneity in wars, the technology of combat. The technology of
-combat is the shape of the function that takes military forces as
-inputs and produces casualties as its outputs, i.e. the production
-function of war. Using a Bayesian hierarchical model, I estimate the
-coefficients of this function at the war level. These estimates
-provide theoretically derived empirical estimates of the
-offense-defense balance and the relationship between the quantity and
-quality of forces over time and across wars&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf&#34; target=&#34;_blank&#34;&gt;MPSA 2013 Presentation Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>250 years ago wars were fought with muskets. Today they are fought with missiles. Yet most empirical and theoretical literature has treated war as a homogeneous process across time. This paper develops a theoretical and quantitative apparatus to describe a key source of heterogeneity in wars, the technology of combat. The technology of combat is the shape of the function that takes military forces as inputs and produces casualties as its outputs, i.</description>
     </item>
     
   </channel>

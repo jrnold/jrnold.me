@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>/teaching/uw-csss564-2018-spring/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols501-2018-winter/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-csss564-2017-spring/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols503-2017-spring/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -15,6 +51,15 @@
     <url>
     
       <loc>/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols501-2017-winter/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -34,6 +79,96 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols503-2016-spring/</loc>
+      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols501-2016-winter/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/uw-pols503-2015-spring/</loc>
+      <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/emory-pols208-2015-spring/</loc>
+      <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/emory-math_camp-2015/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/emory-pols208-2014-fall/</loc>
+      <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/rochester-psc256-2012-fall/</loc>
+      <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/rochester-psc205-2012-spring/</loc>
+      <lastmod>2012-01-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/rochester-psc288-2011-spring/</loc>
+      <lastmod>2011-01-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/rochester-psc106-2010-fall/</loc>
+      <lastmod>2010-09-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -77,22 +212,6 @@
     
       <loc>/tags/bureaucratic-politics/</loc>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-csss564-2017-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-csss564-2018-spring/</loc>
     </url>
     
   
@@ -178,118 +297,6 @@
     
     <url>
     
-      <loc>/teaching/emory-pols208-2014-fall/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/emory-pols208-2015-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols501-2016-winter/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols501-2017-winter/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols501-2018-winter/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols503-2017-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols503-2015-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-pols503-2016-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/uw-psc503-2018-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/rochester-psc205-2012-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/rochester-psc288-2011-spring/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/rochester-psc106-2010-fall/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/rochester-psc256-2012-fall/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/teaching/emory-math_camp-2015/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/working-papers/american-civil-war-financial-market-battlefields/</loc>
     </url>
     
@@ -326,7 +333,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <priority>0</priority>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     </url>
     
   

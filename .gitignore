@@ -4,3 +4,6 @@
 /.doit.*
 /__pycache__/
 .Rproj.user
+.Rhistory
+.Rproj.user
+.Rproj.user

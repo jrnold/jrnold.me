@@ -11,206 +11,235 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
-      <link>/working-papers/commanders-and-military-effectiveness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/commanders-and-military-effectiveness/</guid>
-      <description>&lt;p&gt;How do the characteristics of military leaders relate to battlefield outcomes? To answer
-this question, we employ original battle-level data and biographical information on hundreds
-of commanders in more than 250 battles in the American Civil War. We examine the relationship
-between two common measures of battlefield success (victory and casualties) and
-two latent features of commanders—competence and loyalty—that have long been seen as
-important in the broader study of executive appointments. We find that competent commanders
-are associated with more successful battlefield outcomes, as are more loyal Confederate
-commanders. More broadly, our analysis suggests that focusing on the relationship between
-military appointments and battlefield outcomes—with the latter’s relatively clear definition
-of “success”—allows for direct examination of the relationship between appointee traits and
-organizational performance. As such, our results have implications for the study of conflict as
-well as bureaucratic politics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Shrinkage in Dynamic Linear Models: Unifying Smoothing and Structural Break Models</title>
-      <link>/working-papers/smoothing-breaks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/smoothing-breaks/</guid>
-      <description>&lt;p&gt;This develops a method for estimating time varying parameters that unifies change-point and smoothing models.
-It unifies these approaches by noting that change point models are simply a case of a sparse parameter model in which the sparsity is over the difference rather than the level of the parameters.
-The method presented in the essay consists of combining dynamic linear models with newly developed Bayesian shrinkage prior distributions.
-This method has several advantages over existing change point models.
-First,  it does not require choosing a specific number of change points.
-In fact, it does not require the researcher to choose between smoothly varying and change point models for the parameter of interest since the sparsity of parameter changes can itself be estimated.
-Second, This method is extremely flexible, and can be extended to parameters in a variety of regression and time-series models.
-Third, it can also be used to model change points in multiple parameters that could be either independent or correlated.
-Fourth, since it is a special case of dynamic linear models, computationally efficient methods exist to estimate and sample from it.
-While the computationally efficient methods to estimate dynamic linear models are well known, they are not included in general purpose Bayesian software.
-In this essay, I provide implementations of these methods in &lt;code&gt;Stan&lt;/code&gt;, which can be found on &lt;a href=&#34;https://github.com/jrnold/stan_headers&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_PolmethXXX_Poster.pdf&#34; target=&#34;_blank&#34;&gt;Polmeth XXX Poster&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
-      <link>/teaching/uw-csss564-2017-spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/uw-csss564-2017-spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
       <link>/teaching/uw-csss564-2018-spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-csss564-2018-spring/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Civil War as a Hidden Markov Model</title>
-      <link>/working-papers/civil-war-as-a-hmm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/civil-war-as-a-hmm/</guid>
-      <description>&lt;p&gt;This paper estimates a model of civil war prevalence with a hidden
-Markov model (HMM) to account for measurement error in classifying
-civil wars. Since there exist multiple coding rules for civil war with
-substantial disagreement, each of these coding rules is treated as a
-noisy indicator of a latent concept. A HMM is used to classify
-country-years into latent states of civil war and peace and to model
-the probability of civil war onset and continuation with these latent
-states. The estimated classification supports an inclusive concept of
-civil war with a low threshold for what constitutes a civil war. The
-only statistically significant covariates in the civil war transition
-models are population and GDP on civil war onset.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/cwhmm_2011-06-02.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Covering the Campaign: Election Events in Emerging Democracies</title>
-      <link>/working-papers/covering-the-campaign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/covering-the-campaign/</guid>
-      <description>&lt;p&gt;Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore
-no consistent theoretical framework to guide defining, measuring, and analyzing election coverage,
-particularly in emerging democracies. We apply topic models and supervised learning methods to a
-news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s
-2014 election. We use a theoretically informed classification of election coverage to demonstrate how
-variation in “narrow” or “broad” conceptions of elections generate variation in codings of coverage
-of campaign events and activities reported in the media. Our analysis results in radically distinct
-representations of political actors and institutions in the electoral landscape: a narrow classification
-includes cues to race, party, and incumbent performance in coverage; a broad definition reflects public
-policy concerns and service delivery outcomes. Further, examining messaging directly from political
-actors on social media, we find social media messages by and large reflect the news reported in traditional media and further demonstrate politicians’ diverse appeals. We discuss the challenges and opportunities our research and method pose for how scholars conceive of media’s role in elections based on their theoretical priors about the form, content, and impact of campaigns in emerging democracies. Our results also provide methods, evidence, and lessons learned for replication to study (electoral and non-electoral) events in other developing country settings.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Financial Markets and the Onset of the American Civil War</title>
-      <link>/working-papers/onset-american-civil-war/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/onset-american-civil-war/</guid>
-      <description>&lt;p&gt;I estimate the market implied ex ante probability of the onset of   the American Civil War using U.S.
-government and state bonds. Surprisingly, financial markets were surprised by the Battle of Fort Sumter
-and the start of the war. Prior to Abraham Lincoln’s election in November 1860, the market assigned
-almost no probability to a war. Even after the secession of several states, the week before the Battle of
-Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-10-04.pdf&#34; target=&#34;_blank&#34;&gt;current version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Measuring Rulers</title>
-      <link>/working-papers/measuring-rulers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working-papers/measuring-rulers/</guid>
-      <description>&lt;p&gt;We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf&#34; target=&#34;_blank&#34;&gt;draft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;, Annual Meeting of the Midwest Political Science Association,
-Chicago, IL, April 13, 2013.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>POLS 208: Political Science Methods</title>
-      <link>/teaching/emory-pols208-2014-fall/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/emory-pols208-2014-fall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POLS 208: Political Science Methods</title>
-      <link>/teaching/emory-pols208-2015-spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/emory-pols208-2015-spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
-      <link>/teaching/uw-pols501-2016-winter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/uw-pols501-2016-winter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
-      <link>/teaching/uw-pols501-2017-winter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/uw-pols501-2017-winter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
       <link>/teaching/uw-pols501-2018-winter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-pols501-2018-winter/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
+      <link>/teaching/uw-csss564-2017-spring/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-csss564-2017-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>POLS/CS&amp;SS 503: Advanced Political Research Design and Analysis</title>
       <link>/teaching/uw-pols503-2017-spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-pols503-2017-spring/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2017-winter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2017-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
+      <link>/teaching/uw-pols503-2016-spring/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols503-2016-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
+      <link>/teaching/uw-pols501-2016-winter/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/uw-pols501-2016-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
       <link>/teaching/uw-pols503-2015-spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-pols503-2015-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2015-spring/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/emory-pols208-2015-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Science Graduate Student Math Camp</title>
+      <link>/teaching/emory-math_camp-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/emory-math_camp-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLS 208: Political Science Methods</title>
+      <link>/teaching/emory-pols208-2014-fall/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/emory-pols208-2014-fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSC/IR 265: Civil War and the International System</title>
+      <link>/teaching/rochester-psc256-2012-fall/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc256-2012-fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSC 205: Introductory Statistical Methods</title>
+      <link>/teaching/rochester-psc205-2012-spring/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc205-2012-spring/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/psc205_syll2012.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
+
+&lt;p&gt;Lab session notes and associated R code.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;lab1
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab1.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab2
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab2.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab3
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab3.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab4
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab4.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab5
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab5.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab6
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab6.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab7
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab7-midterm-review.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab8
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab8.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab9
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab9.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lab 11
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/lab/lab11.R&#34; target=&#34;_blank&#34;&gt;R code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;homework&#34;&gt;Homework&lt;/h3&gt;
+
+&lt;p&gt;Homework assignments and solutions&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Homework 1:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw1-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 2:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw2-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 3:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw3-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 4:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw4-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 5:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw5-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 6:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw6-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 7:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw7-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 8:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw8-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 9:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw9-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/chesterfields.mov&#34; target=&#34;_blank&#34;&gt;Chesterfields Ad&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/WillieHorton_ad.mov&#34; target=&#34;_blank&#34;&gt;Willie Horton Ad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 10:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw10-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework 11:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11.pdf&#34; target=&#34;_blank&#34;&gt;assignment&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/homework/hw11-solutions.pdf&#34; target=&#34;_blank&#34;&gt;solutions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+
+&lt;p&gt;Datasets used in homeworks and labs&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SOPA (Stop Online Piracy Act) support and campaign contributions:
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.rda&#34; target=&#34;_blank&#34;&gt;data&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/sopa.pdf&#34; target=&#34;_blank&#34;&gt;codebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/Cars93.rda&#34; target=&#34;_blank&#34;&gt;Cars93&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ANES 2008: &lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008.rda&#34; target=&#34;_blank&#34;&gt;data&lt;/a&gt;,
+&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anes2008_codebook.pdf&#34; target=&#34;_blank&#34;&gt;codebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/anorexia.rda&#34; target=&#34;_blank&#34;&gt;anorexia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/arms.rda&#34; target=&#34;_blank&#34;&gt;arms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/incomes.rda&#34; target=&#34;_blank&#34;&gt;incomes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/crimeDP.rda&#34; target=&#34;_blank&#34;&gt;crimeDP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/mental.impairment.rda&#34; target=&#34;_blank&#34;&gt;mental.impairment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s3.amazonaws.com/docs.jrnold.me/teaching/rochester/psc205/data/therm.rda&#34; target=&#34;_blank&#34;&gt;therm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PSC/ECO 288: Game Theory</title>
+      <link>/teaching/rochester-psc288-2011-spring/</link>
+      <pubDate>Sat, 15 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc288-2011-spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSC/IR 106: Introduction to International Relations</title>
+      <link>/teaching/rochester-psc106-2010-fall/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/rochester-psc106-2010-fall/</guid>
       <description></description>
     </item>
     

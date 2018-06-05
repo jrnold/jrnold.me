@@ -3,6 +3,7 @@ title: "PSC 205: Introductory Statistical Methods"
 institution: "University of Rochester"
 term: "Spring"
 year: 2012
+date: 2012-01-15
 course_type: "Undergraduate"
 role: "Teaching Assistant"
 instructor:

@@ -2,6 +2,7 @@
 title: "PSC/ECO 288: Game Theory"
 institution: "University of Rochester"
 year: 2011
+date: 2011-01-15
 term: "Spring"
 role: "Teaching Assistant"
 course_type: "Undergraduate"
