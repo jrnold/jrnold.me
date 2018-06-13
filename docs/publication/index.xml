@@ -1,114 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/publication/</link>
-    <description>Recent content in Publications on Jeffrey B. Arnold</description>
+    <title>Publications and Unpublished Manuscripts on Jeffrey B. Arnold</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications and Unpublished Manuscripts on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jrnold.me/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fast, Consistent Tokenization of Natural Language Text</title>
-      <link>https://jrnold.me/publication/tokenization/</link>
+      <link>/publication/tokenization/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/tokenization/</guid>
+      <guid>/publication/tokenization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
-      <link>https://jrnold.me/publication/commanders-and-military-effectiveness/</link>
+      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness&#34;
+</title>
+      <link>/publication/commanders-and-military-effectiveness/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/commanders-and-military-effectiveness/</guid>
+      <guid>/publication/commanders-and-military-effectiveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covering the Campaign: Election Events in Emerging Democracies</title>
-      <link>https://jrnold.me/publication/covering-the-campaign/</link>
+      <link>/publication/covering-the-campaign/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/covering-the-campaign/</guid>
+      <guid>/publication/covering-the-campaign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Did Financial Markets Anticipate the Onset of the American Civil War?</title>
-      <link>https://jrnold.me/publication/onset-american-civil-war/</link>
+      <link>/publication/onset-american-civil-war/</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/onset-american-civil-war/</guid>
+      <guid>/publication/onset-american-civil-war/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Change Points and Linear Filtering in Dynamic Linear Models using Shrinkage Priors</title>
-      <link>https://jrnold.me/publication/smoothing-breaks/</link>
+      <title>Bayesian Change Points and Linear Filtering in Dynamic Linear Models using Shrinkage Priors
+</title>
+      <link>/publication/smoothing-breaks/</link>
       <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/smoothing-breaks/</guid>
+      <guid>/publication/smoothing-breaks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War</title>
-      <link>https://jrnold.me/publication/american-civil-war-financial-market-battlefields/</link>
+      <title>Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War
+</title>
+      <link>/publication/american-civil-war-financial-market-battlefields/</link>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/american-civil-war-financial-market-battlefields/</guid>
+      <guid>/publication/american-civil-war-financial-market-battlefields/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Rulers</title>
-      <link>https://jrnold.me/publication/measuring-rulers/</link>
+      <link>/publication/measuring-rulers/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/measuring-rulers/</guid>
-      <description>We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.
- draft presentation, Annual Meeting of the Midwest Political Science Association, Chicago, IL, April 13, 2013.  </description>
+      <guid>/publication/measuring-rulers/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Producing Death: Estimating the Offense-Defense Balance from the Production Function of Battle Casualties</title>
-      <link>https://jrnold.me/publication/producing-death/</link>
+      <title>Producing Death: Estimating the Offense-Defense Balance from the  Production Function of Battle Casualties&#34;
+</title>
+      <link>/publication/producing-death/</link>
       <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/producing-death/</guid>
-      <description>250 years ago wars were fought with muskets. Today they are fought with missiles. Yet most empirical and theoretical literature has treated war as a homogeneous process across time. This paper develops a theoretical and quantitative apparatus to describe a key source of heterogeneity in wars, the technology of combat. The technology of combat is the shape of the function that takes military forces as inputs and produces casualties as its outputs, i.</description>
+      <guid>/publication/producing-death/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Civil War as a Hidden Markov Model</title>
-      <link>https://jrnold.me/publication/civil-war-as-a-hmm/</link>
+      <link>/publication/civil-war-as-a-hmm/</link>
       <pubDate>Thu, 02 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/civil-war-as-a-hmm/</guid>
+      <guid>/publication/civil-war-as-a-hmm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changes in the Timing Distribution of Fedwire Funds Transfers</title>
-      <link>https://jrnold.me/publication/changes-timing-distribution-fedwire-funds-transfers/</link>
+      <link>/publication/changes-timing-distribution-fedwire-funds-transfers/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/changes-timing-distribution-fedwire-funds-transfers/</guid>
+      <guid>/publication/changes-timing-distribution-fedwire-funds-transfers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topology of Interbank Payment Flows</title>
-      <link>https://jrnold.me/publication/topology-interbank-payment-flows/</link>
+      <link>/publication/topology-interbank-payment-flows/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/topology-interbank-payment-flows/</guid>
+      <guid>/publication/topology-interbank-payment-flows/</guid>
       <description></description>
     </item>
     

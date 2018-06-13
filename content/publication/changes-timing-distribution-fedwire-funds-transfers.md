@@ -25,25 +25,38 @@ publication: "Federal Reserve Bank of New York Economic Policy Review"
 publication_short: "FRBNY Economic Policy Review"
 
 # Abstract and optional shortened version.
-abstract: >
+abstract: |
+    The Federal Reserve’s Fedwire funds transfer service—the biggest
+    large-value payments system in the United States—has long displayed a
+    concentrated peak of activity in the late afternoon.
 
-    The Federal Reserve’s Fedwire funds transfer service—the biggest large-value payments system in the United States—has long displayed a concentrated peak of activity in the late afternoon.
-    
-    Theory suggests that the concentration of late-afternoon Fedwire activity reflects coordination among participating banks to reduce liquidity costs, delay costs, and credit risk; as these costs and risk change over time, payment timing most likely will be affected.
-    
-    The sending of large payments late in the day can heighten operational risk by increasing the potential magnitude of liquidity dislocation and risk if operational disruptions were to occur.
-    
-    Armantier, Arnold, and McAndrews quantify how the changing environment in which Fedwire operates has affected the timing of payment value transferred within the system between 1998 and 2006.
-    
-    The study finds that the peak of the timing distribution has become more concentrated, has shifted to later in the day, and has divided into two peaks.
-    
-    The authors attribute the changes in payment timing in Fedwire to several factors:
-    
-    -   changes in Federal Reserve System policies that govern the provision of daylight overdrafts,
-    
-    -   variations in the value and volume of payments, and 
-    
-    -   changes in the flow of payments from private sector settlement institutions.
+    Theory suggests that the concentration of late-afternoon Fedwire activity
+    reflects coordination among participating banks to reduce liquidity costs,
+    delay costs, and credit risk; as these costs and risk change over time,
+    payment timing most likely will be affected.
+
+    The sending of large payments late in the day can heighten operational risk
+    by increasing the potential magnitude of liquidity dislocation and risk if
+    operational disruptions were to occur.
+
+    Armantier, Arnold, and McAndrews quantify how the changing environment in
+    which Fedwire operates has affected the timing of payment value transferred
+    within the system between 1998 and 2006.
+
+    The study finds that the peak of the timing distribution has become more
+    concentrated, has shifted to later in the day, and has divided into two
+    peaks.
+
+    The authors attribute the changes in payment timing in Fedwire to several
+    factors:
+
+    -   changes in Federal Reserve System policies that govern the provision of
+        daylight overdrafts,
+
+    -   variations in the value and volume of payments, and
+
+    -   changes in the flow of payments from private sector settlement
+        institutions.
 
 abstract_short: ""
 
@@ -54,17 +67,14 @@ image_preview: ""
 selected: false
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects: ["deep-learning"]` references `content/project/deep-learning.md`.
 projects: []
 
 # Tags (optional).
-#   Set `tags: []` for no tags, or use the form `tags: ["A Tag", "Another Tag"]` for one or more tags.
 tags: []
 
 # Links (optional).
-url_pdf: "https://www.newyorkfed.org/research/epr/08v14n2/exesummary/exesum_arma.html"
+url_pdf: >
+  https://www.newyorkfed.org/research/epr/08v14n2/exesummary/exesum_arma.html
 url_preprint: ""
 url_code: ""
 url_dataset: ""
@@ -75,7 +85,6 @@ url_poster: ""
 url_source: ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom: [{name: "Custom Link", url: "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
@@ -85,9 +94,7 @@ math: false
 highlight: true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image: "example.jpg"`.
 header:
   image: ""
   caption: ""
-
 ---

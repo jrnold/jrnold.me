@@ -1,5 +1,7 @@
 ---
-title: "Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War"
+title: >
+  Pricing the Costly Lottery:
+  Financial Market Reactions to Battlefield Events in the American Civil War
 authors:
 - Jeffrey B. Arnold
 date: 2013-09-29
@@ -20,6 +22,6 @@ abstract: >
   application, initial results suggest that for the Union bonds
   considered, the average Confederate victory decreased the price by
   3.3% Union victory increased it by 1%.
-url_pdf: "https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf"
+url_pdf: >
+  https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf
 ---
-

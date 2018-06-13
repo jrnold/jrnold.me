@@ -6,10 +6,13 @@ authors:
 publication_types: ["3"]
 projects: []
 date: 2012-04-12
+abstract: >
+
+  We develop a measure of the historical reputation of leaders&lsquo; using
+  their Wikipedia pages.
+
+url_pdf: >
+  https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf
+url_slides: >   
+   https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf
 ---
-
-We develop a measure of the historical reputation of leaders&lsquo; using their Wikipedia pages.
-
-- [draft](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_Leaders_Fame.pdf)
-- [presentation](https://s3.amazonaws.com/docs.jrnold.me/Arnold_Goemans_MPSA_presentation_2012-04-13.pdf), Annual Meeting of the Midwest Political Science Association,
-  Chicago, IL, April 13, 2013.
