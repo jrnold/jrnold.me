@@ -14,8 +14,35 @@
     
     <url>
     
+      <loc>/publication/tokenization/</loc>
+      <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/commanders-and-military-effectiveness/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/uw-pols501-2018-winter/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/covering-the-campaign/</loc>
+      <lastmod>2017-08-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -86,6 +113,15 @@
     
     <url>
     
+      <loc>/software/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/uw-pols503-2016-spring/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -97,6 +133,24 @@
     
       <loc>/teaching/uw-pols501-2016-winter/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/onset-american-civil-war/</loc>
+      <lastmod>2015-11-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/smoothing-breaks/</loc>
+      <lastmod>2015-10-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,6 +194,15 @@
     
     <url>
     
+      <loc>/publication/american-civil-war-financial-market-battlefields/</loc>
+      <lastmod>2013-09-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/rochester-psc256-2012-fall/</loc>
       <lastmod>2012-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -149,8 +212,35 @@
     
     <url>
     
+      <loc>/publication/measuring-rulers/</loc>
+      <lastmod>2012-04-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/producing-death/</loc>
+      <lastmod>2012-04-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/rochester-psc205-2012-spring/</loc>
       <lastmod>2012-01-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/civil-war-as-a-hmm/</loc>
+      <lastmod>2011-06-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -176,7 +266,26 @@
     
     <url>
     
-      <loc>/tags/africa/</loc>
+      <loc>/publication/changes-timing-distribution-fedwire-funds-transfers/</loc>
+      <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/topology-interbank-payment-flows/</loc>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -185,7 +294,19 @@
     
     <url>
     
-      <loc>/working-papers/commanders-and-military-effectiveness/</loc>
+      <loc>/publication_types/3/</loc>
+      <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/africa/</loc>
+      <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -194,6 +315,7 @@
     <url>
     
       <loc>/tags/american-civil-war/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -202,15 +324,8 @@
     
     <url>
     
-      <loc>/working-papers/smoothing-breaks/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/bureaucratic-politics/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,15 +343,8 @@
     
     <url>
     
-      <loc>/working-papers/civil-war-as-a-hmm/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/comparative-politics/</loc>
+      <lastmod>2017-08-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,6 +354,7 @@
     <url>
     
       <loc>/tags/conflict/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -254,23 +363,8 @@
     
     <url>
     
-      <loc>/working-papers/covering-the-campaign/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/working-papers/onset-american-civil-war/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/international-relations/</loc>
+      <lastmod>2018-01-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,7 +383,9 @@
     
     <url>
     
-      <loc>/working-papers/measuring-rulers/</loc>
+      <loc>/tags/networks/</loc>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -297,15 +393,9 @@
     
     <url>
     
-      <loc>/working-papers/american-civil-war-financial-market-battlefields/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/working-papers/producing-death/</loc>
+      <loc>/tags/payments/</loc>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -314,6 +404,7 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2018-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -342,15 +433,7 @@
     <url>
     
       <loc>/tags/text-as-data/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/working-papers/</loc>
+      <lastmod>2018-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

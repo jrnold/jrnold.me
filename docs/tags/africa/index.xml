@@ -7,17 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/africa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Covering the Campaign: Election Events in Emerging Democracies</title>
-      <link>/working-papers/covering-the-campaign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/publication/covering-the-campaign/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/working-papers/covering-the-campaign/</guid>
-      <description>Scholars of democratic politics differ in their conceptualization of the role of media in political campaigns and how it subsequently affects political behavior and electoral outcomes. There is therefore no consistent theoretical framework to guide defining, measuring, and analyzing election coverage, particularly in emerging democracies. We apply topic models and supervised learning methods to a news corpus of almost 100,000 news articles and approximately 137,000 tweets from South Africa’s 2014 election.</description>
+      <guid>/publication/covering-the-campaign/</guid>
+      <description></description>
     </item>
     
   </channel>

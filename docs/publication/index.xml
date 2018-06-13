@@ -12,5 +12,105 @@
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Fast, Consistent Tokenization of Natural Language Text</title>
+      <link>/publication/tokenization/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tokenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness</title>
+      <link>/publication/commanders-and-military-effectiveness/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/commanders-and-military-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covering the Campaign: Election Events in Emerging Democracies</title>
+      <link>/publication/covering-the-campaign/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/covering-the-campaign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did Financial Markets Anticipate the Onset of the American Civil War?</title>
+      <link>/publication/onset-american-civil-war/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/onset-american-civil-war/</guid>
+      <description> current version  </description>
+    </item>
+    
+    <item>
+      <title>Bayesian Change Points and Linear Filtering in Dynamic Linear Models using Shrinkage Priors</title>
+      <link>/publication/smoothing-breaks/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smoothing-breaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing the Costly Lottery: Financial Market Reactions to Battlefield Events in the American Civil War</title>
+      <link>/publication/american-civil-war-financial-market-battlefields/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/american-civil-war-financial-market-battlefields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Rulers</title>
+      <link>/publication/measuring-rulers/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/measuring-rulers/</guid>
+      <description>We develop a measure of the historical reputation of leaders&amp;lsquo; using their Wikipedia pages.
+ draft presentation, Annual Meeting of the Midwest Political Science Association, Chicago, IL, April 13, 2013.  </description>
+    </item>
+    
+    <item>
+      <title>Producing Death: Estimating the Offense-Defense Balance from the Production Function of Battle Casualties</title>
+      <link>/publication/producing-death/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/producing-death/</guid>
+      <description>250 years ago wars were fought with muskets. Today they are fought with missiles. Yet most empirical and theoretical literature has treated war as a homogeneous process across time. This paper develops a theoretical and quantitative apparatus to describe a key source of heterogeneity in wars, the technology of combat. The technology of combat is the shape of the function that takes military forces as inputs and produces casualties as its outputs, i.</description>
+    </item>
+    
+    <item>
+      <title>Civil War as a Hidden Markov Model</title>
+      <link>/publication/civil-war-as-a-hmm/</link>
+      <pubDate>Thu, 02 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/civil-war-as-a-hmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in the Timing Distribution of Fedwire Funds Transfers</title>
+      <link>/publication/changes-timing-distribution-fedwire-funds-transfers/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/changes-timing-distribution-fedwire-funds-transfers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology of Interbank Payment Flows</title>
+      <link>/publication/topology-interbank-payment-flows/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/topology-interbank-payment-flows/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -3,6 +3,10 @@ title: "Measuring Rulers"
 authors:
 - Jeffrey B. Arnold
 - Hein Goemans
+publication_types: ["3"]
+projects:
+- Miscellaneous
+date: 2012-04-12
 ---
 
 We develop a measure of the historical reputation of leaders&lsquo; using their Wikipedia pages.
