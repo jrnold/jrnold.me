@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Simon Jackman&#39;s BUGS Examples in Stan</title>
+      <link>/publication/bugs-examples-in-stan/</link>
+      <pubDate>Tue, 12 Jun 2018 21:21:11 -0700</pubDate>
+      
+      <guid>/publication/bugs-examples-in-stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
       <link>/teaching/uw-csss564-2018-spring/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -25,6 +34,15 @@
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/tokenization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitive Social Science: The R Tidyverse Code</title>
+      <link>/publication/tidy-qss/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tidy-qss/</guid>
       <description></description>
     </item>
     
@@ -126,24 +144,6 @@
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/teaching/uw-pols503-2015-spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POLS 208: Political Science Methods</title>
-      <link>/teaching/emory-pols208-2015-spring/</link>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/emory-pols208-2015-spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Science Graduate Student Math Camp</title>
-      <link>/teaching/emory-math_camp-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/emory-math_camp-2015/</guid>
       <description></description>
     </item>
     

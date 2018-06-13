@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/bugs-examples-in-stan/</loc>
+      <lastmod>2018-06-12T21:21:11-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/uw-csss564-2018-spring/</loc>
       <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     </url>
@@ -16,6 +25,15 @@
     
       <loc>/publication/tokenization/</loc>
       <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/tidy-qss/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -284,6 +302,34 @@
     
     <url>
     
+      <loc>/publication/r4ds-exercise-solutions/</loc>
+      <lastmod>1969-12-31T16:33:38-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/masteringmetrics/</loc>
+      <lastmod>1969-12-31T16:33:38-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>1969-12-31T16:33:38-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -295,7 +341,7 @@
     <url>
     
       <loc>/publication_types/3/</loc>
-      <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-12T21:21:11-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -343,6 +389,16 @@
     
     <url>
     
+      <loc>/tags/causal-inference/</loc>
+      <lastmod>1969-12-31T16:33:38-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/comparative-politics/</loc>
       <lastmod>2017-08-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -355,6 +411,16 @@
     
       <loc>/tags/conflict/</loc>
       <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/data-science/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,7 +470,17 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+      <lastmod>1969-12-31T16:33:38-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -415,6 +491,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/teaching/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -434,6 +520,16 @@
     
       <loc>/tags/text-as-data/</loc>
       <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/tidyverse/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

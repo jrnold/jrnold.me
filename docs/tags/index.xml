@@ -49,6 +49,15 @@
     </item>
     
     <item>
+      <title>Causal inference</title>
+      <link>/tags/causal-inference/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
+      
+      <guid>/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparative politics</title>
       <link>/tags/comparative-politics/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
@@ -63,6 +72,15 @@
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     
@@ -94,11 +112,38 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Text as data</title>
       <link>/tags/text-as-data/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/text-as-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse</title>
+      <link>/tags/tidyverse/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidyverse/</guid>
       <description></description>
     </item>
     
