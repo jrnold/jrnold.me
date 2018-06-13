@@ -30,19 +30,21 @@ See my profile at [CRANtastic](https://crantastic.org/authors/2671) or  [RDocume
 -   [qss-package](https://github.com/kosukeimai/qss-package) (not on CRAN). 
     Wrote initial draft of the package, which contains datasets from 
     Imai (2017) [Quantitative Social Science: An Introduction](http://press.princeton.edu/titles/11025.html).
--   [stan](https://github.com/stan-dev/stan/issues). Contributed the 
-    `gaussian_dlm_obs_log` function, which implements time-invariant dynamic linear models.
-    Contributed to documentation.
+-   Coined the term [quosure](https://github.com/tidyverse/purrr/pull/288).
 
 ### Minor contributions
 
-I have contributed features and bug-fixed to many R packages, including [ggplot2](https://github.com/tidyverse/ggplot2/commits?author=jrnold), [readr](https://github.com/tidyverse/readr/commits?author=jrnold), [lintr](https://github.com/jimhester/lintr/graphs/contributors), [broom](https://github.com/tidyverse/broom/commits?author=jrnold), [recipes](https://github.com/topepo/recipes/commits?author=jrnold), [knitr](https://github.com/yihui/knitr/commits?author=jrnold), and [scales](https://github.com/hadley/scales/commits?author=jrnold).
+I have contributed features and bug-fixed to many R packages, including [ggplot2](https://github.com/tidyverse/ggplot2/commits?author=jrnold), [readr](https://github.com/tidyverse/readr/commits?author=jrnold), [lintr](https://github.com/jimhester/lintr/graphs/contributors), [broom](https://github.com/tidyverse/broom/commits?author=jrnold), [recipes](https://github.com/topepo/recipes/commits?author=jrnold), [knitr](https://github.com/yihui/knitr/commits?author=jrnold), 
+[stm](https://github.com/bstewart/stm/commits?author=jrnold) and [scales](https://github.com/hadley/scales/commits?author=jrnold).
 
 ## Other Languages
 
+-   [stan](https://github.com/stan-dev/stan/issues) (C++): Contributed the 
+    `gaussian_dlm_obs_log` function, which implements time-invariant dynamic linear models.
+    Contributed to documentation.
 -   Wrote [language-stan](https://atom.io/packages/language-stan). Adds syntax highlighting and snippets for Stan files in Atom.
 -   Wrote [stan-mode](https://stable.melpa.org/#/stan-mode), an Emacs major mode for Stan.
 -   Wrote [yasnippets-stan](https://github.com/stan-dev/stan-mode), and Emacs packages with
     with yasnippet snippets for Stan.
 -   Contributed Stan and BUGS/JAGS language support and updated R language for [Pygments](http://pygments.org/).
--   Wrote [beamercolorthemesolarize](https://github.com/jrnold/beamercolorthemesolarized](https://github.com/jrnold/beamercolorthemesolarized): A LaTeX Beamer color theme.
+-   Wrote [beamercolorthemesolarize](https://github.com/jrnold/beamercolorthemesolarized): A LaTeX Beamer color theme.

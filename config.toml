@@ -4,7 +4,7 @@ publishDir = "docs"
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://jrnold.io/"
+baseurl = "https://jrnold.me/"
 
 # Title of your site
 title = "Jeffrey B. Arnold"
@@ -264,6 +264,11 @@ defaultContentLanguageInSubdir = false
   name = "Research"
   url = "publication/"
   weight = 10
+
+[[menu.main]]
+  name = "Software"
+  url = "software/"
+  weight = 20
 
 [[menu.main]]
   name = "Teaching"

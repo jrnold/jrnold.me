@@ -24,7 +24,9 @@
   {{ range .Translations }}
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
-  <link rel="alternate" hreflang="{{ .Site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
+  {{ if .Permalink }}
+    <link rel="alternate" hreflang="{{ .Site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
+  {{ end }}
 
   {{ partial "css/parse_theme.css" . }}
   {{ $sri := .Site.Data.sri }}
@@ -103,7 +105,9 @@
   <link rel="icon" type="image/png" href="{{ "/img/icon.png" | relURL }}">
   <link rel="apple-touch-icon" type="image/png" href="{{ "/img/icon-192.png" | relURL }}">
 
-  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if .Permalink }}
+    <link rel="canonical" href="{{ .Permalink }}">
+  {{ end }}
 
   <meta property="twitter:card" content="summary_large_image">
   {{ range where $.Site.Params.social ".icon" "twitter" }}
