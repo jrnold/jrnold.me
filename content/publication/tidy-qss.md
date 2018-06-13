@@ -1,5 +1,5 @@
 ---
-title: "Quantitive Social Science: The R Tidyverse Code"
+title: "Quantitative Social Science: The R Tidyverse Code"
 date: 2018-02-06
 draft: false
 

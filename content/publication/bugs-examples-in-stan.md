@@ -36,11 +36,11 @@ image_preview: ""
 selected: false
 
 # Projects (optional).
-projects: [Bayesian, Stan]
+projects: []
 
 # Tags (optional).
 #   Set `tags: []` for no tags, or use the form `tags: ["A Tag", "Another Tag"]` for one or more tags.
-tags: []
+tags: [Bayesian, Stan]
 
 # Links (optional).
 url_pdf: ""

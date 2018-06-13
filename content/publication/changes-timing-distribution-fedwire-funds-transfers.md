@@ -73,7 +73,7 @@ projects: []
 tags: []
 
 # Links (optional).
-url_pdf: >
+url_pdf: >-
   https://www.newyorkfed.org/research/epr/08v14n2/exesummary/exesum_arma.html
 url_preprint: ""
 url_code: ""

@@ -6,7 +6,7 @@ authors:
 date: 2015-11-04
 publication_types: ["3"]
 projects: []
-url_pdf: >
+url_pdf: >-
   https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-11-04.pdf
 abstract: >
 

@@ -5,7 +5,7 @@ authors:
 - Aaron Erlich
 - Danielle F. Jung
 - James D. Long
-url_pdf: >
+url_pdf: >-
   https://s3-us-west-2.amazonaws.com/jrnold-data/docs/Arnold+Erlich+Jung+Long+APSA+2017.pdf
 date: 2017-08-25
 publication_types: ["3"]

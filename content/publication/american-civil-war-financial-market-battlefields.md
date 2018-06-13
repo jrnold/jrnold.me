@@ -22,6 +22,6 @@ abstract: >
   application, initial results suggest that for the Union bonds
   considered, the average Confederate victory decreased the price by
   3.3% Union victory increased it by 1%.
-url_pdf: >
+url_pdf: >-
   https://s3.amazonaws.com/docs.jrnold.me/Pricing_the_Costly_Lottery_v_1_4.pdf
 ---

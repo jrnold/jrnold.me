@@ -1,6 +1,6 @@
 ---
 title: >
-  Producing Death: Estimating the Offense-Defense Balance from the 
+  Producing Death: Estimating the Offense-Defense Balance from the
   Production Function of Battle Casualties"
 authors:
 - Jeffrey B. Arnold
@@ -22,8 +22,8 @@ abstract: >
   offense-defense balance and the relationship between the quantity and
   quality of forces over time and across wars
 
-url_pdf: >
+url_pdf: >-
   https://s3.amazonaws.com/docs.jrnold.me/producing_death_2012-04-09.pdf
-url_slides: >
+url_slides: >-
   https://s3.amazonaws.com/docs.jrnold.me/Jrnold_Producing_Death_20130412.pdf
 ---
