@@ -4,8 +4,7 @@ authors:
 - Jeffrey B. Arnold
 publication_types: ["3"]
 date: 2015-10-14
-projects: 
-- Bayesian methods
+projects: []
 abstract: >
 
   This develops a method for estimating time varying parameters that unifies change-point and smoothing models.

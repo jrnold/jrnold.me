@@ -4,9 +4,7 @@ authors:
 - Jeffrey B. Arnold
 publication_types: ["3"]
 date: 2011-06-02
-projects:
-- War dynamics
-- Bayesian methods
+projects: []
 abstract: >
   This paper estimates a model of civil war prevalence with a hidden
   Markov model (HMM) to account for measurement error in classifying

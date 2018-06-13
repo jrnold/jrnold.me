@@ -35,7 +35,7 @@ I am an Assistant Professor of Political Science at the [University of Washingto
 My research interests involve applying quantitative methods to social sciences,
 including, link to examples.
 
-I received Ph.D. in political science at the [University of Rochester](http://www.rochester.edu/college/psc/new-site/).
+I received Ph.D. in political science at the [University of Rochester](http://www.sas.rochester.edu/psc/).
 Previously, I was Instructor of Political Science at [Emory University](http://polisci.emory.edu/home/) and a Pre-doctoral Fellow at the [QuanTM](http://www.quantitative.emory.edu/).
 I previously worked as a Research Associate and
 Economist in the

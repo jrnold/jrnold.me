@@ -244,7 +244,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "www.linkedin.com/in/jrnold"
+    link = "https://www.linkedin.com/in/jrnold"
 
 
 # Navigation Links

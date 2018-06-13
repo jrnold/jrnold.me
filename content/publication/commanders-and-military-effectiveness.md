@@ -7,8 +7,7 @@ authors:
 doc_url: "https://s3.amazonaws.com/docs.jrnold.me/commander-traits-and-battlefields-military-effectiveness-20180128.pdf"
 date: 2018-01-28
 pubication_types: ["3"]
-projects:
-- American Civil War
+projects: []
 tags:
 - American Civil War
 - conflict

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text as data on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/tags/text-as-data/</link>
+    <link>/tags/text-as-data/</link>
     <description>Recent content in Text as data on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jrnold.me/tags/text-as-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/text-as-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fast, Consistent Tokenization of Natural Language Text</title>
-      <link>https://jrnold.me/publication/tokenization/</link>
+      <link>/publication/tokenization/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/tokenization/</guid>
+      <guid>/publication/tokenization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covering the Campaign: Election Events in Emerging Democracies</title>
-      <link>https://jrnold.me/publication/covering-the-campaign/</link>
+      <link>/publication/covering-the-campaign/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/covering-the-campaign/</guid>
+      <guid>/publication/covering-the-campaign/</guid>
       <description></description>
     </item>
     

@@ -4,8 +4,7 @@ authors:
 - Jeffrey B. Arnold
 - Hein Goemans
 publication_types: ["3"]
-projects:
-- Miscellaneous
+projects: []
 date: 2012-04-12
 ---
 

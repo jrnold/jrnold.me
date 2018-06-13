@@ -4,9 +4,9 @@ authors:
 - Jeffrey B. Arnold
 date: 2013-09-29
 publication_types: ["3"]
-projects:
-- American Civil War
-- War dynamics
+# projects:
+# - American Civil War
+# - War dynamics
 abstract: >
   This paper estimates the effects of major battles in the American
   Civil War on the price of Union bonds.  Bond prices are a function of

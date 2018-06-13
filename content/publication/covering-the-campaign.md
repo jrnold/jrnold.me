@@ -8,8 +8,7 @@ authors:
 url_pdf: "https://s3-us-west-2.amazonaws.com/jrnold-data/docs/Arnold+Erlich+Jung+Long+APSA+2017.pdf"
 date: 2017-08-25
 publication_types: ["3"]
-projects: 
-- Miscellaneous
+projects: []
 tags: 
 - comparative politics
 - text as data
