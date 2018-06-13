@@ -15,5 +15,3 @@ abstract: >
   almost no probability to a war. Even after the secession of several states, the week before the Battle of
   Fort Sumter, the market assigned a negligible probability, approximately 5%, to war onset.
 ---
-
-- [current version](https://s3.amazonaws.com/docs.jrnold.me/Financial_Markets_and_Onset_of_the_American_Civil_War_2015-10-04.pdf)
