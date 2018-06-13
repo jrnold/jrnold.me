@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Jeffrey B. Arnold</title>
-    <link>/publication_types/2/</link>
+    <link>https://jrnold.me/publication_types/2/</link>
     <description>Recent content in 2 on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jrnold.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fast, Consistent Tokenization of Natural Language Text</title>
-      <link>/publication/tokenization/</link>
+      <link>https://jrnold.me/publication/tokenization/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tokenization/</guid>
+      <guid>https://jrnold.me/publication/tokenization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changes in the Timing Distribution of Fedwire Funds Transfers</title>
-      <link>/publication/changes-timing-distribution-fedwire-funds-transfers/</link>
+      <link>https://jrnold.me/publication/changes-timing-distribution-fedwire-funds-transfers/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>/publication/changes-timing-distribution-fedwire-funds-transfers/</guid>
+      <guid>https://jrnold.me/publication/changes-timing-distribution-fedwire-funds-transfers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topology of Interbank Payment Flows</title>
-      <link>/publication/topology-interbank-payment-flows/</link>
+      <link>https://jrnold.me/publication/topology-interbank-payment-flows/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/topology-interbank-payment-flows/</guid>
+      <guid>https://jrnold.me/publication/topology-interbank-payment-flows/</guid>
       <description></description>
     </item>
     
