@@ -4,7 +4,7 @@ publishDir = "docs"
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://github.jrnold.io/jrnold.me/"
+baseurl = "https://jrnold.me/"
 
 # Title of your site
 title = "Jeffrey B. Arnold"
