@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Jeffrey B. Arnold</title>
-    <link>/publication_types/</link>
+    <link>/jrnold.me/publication_types/</link>
     <description>Recent content in Publication_types on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 31 Dec 1969 16:33:38 -0800</lastBuildDate>
     
-	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/jrnold.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>0</title>
-      <link>/publication_types/0/</link>
+      <link>/jrnold.me/publication_types/0/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
       
-      <guid>/publication_types/0/</guid>
+      <guid>/jrnold.me/publication_types/0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>/jrnold.me/publication_types/2/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication_types/2/</guid>
+      <guid>/jrnold.me/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>/jrnold.me/publication_types/3/</link>
       <pubDate>Tue, 12 Jun 2018 21:21:11 -0700</pubDate>
       
-      <guid>/publication_types/3/</guid>
+      <guid>/jrnold.me/publication_types/3/</guid>
       <description></description>
     </item>
     
