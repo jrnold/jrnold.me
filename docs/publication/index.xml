@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>&#39;R for Data Science&#39; Exercise Solutions</title>
+      <link>https://jrnold.me/publication/r4ds-exercise-solutions/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrnold.me/publication/r4ds-exercise-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simon Jackman&#39;s BUGS Examples in Stan</title>
       <link>https://jrnold.me/publication/bugs-examples-in-stan/</link>
       <pubDate>Tue, 12 Jun 2018 21:21:11 -0700</pubDate>
       
       <guid>https://jrnold.me/publication/bugs-examples-in-stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Code for Mastering &#39;Metrics</title>
+      <link>https://jrnold.me/publication/masteringmetrics/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrnold.me/publication/masteringmetrics/</guid>
       <description></description>
     </item>
     
@@ -130,24 +148,6 @@
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       
       <guid>https://jrnold.me/publication/topology-interbank-payment-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#39;R for Data Science&#39; Exercise Solutions</title>
-      <link>https://jrnold.me/publication/r4ds-exercise-solutions/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
-      
-      <guid>https://jrnold.me/publication/r4ds-exercise-solutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Code for Mastering &#39;Metrics</title>
-      <link>https://jrnold.me/publication/masteringmetrics/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
-      
-      <guid>https://jrnold.me/publication/masteringmetrics/</guid>
       <description></description>
     </item>
     

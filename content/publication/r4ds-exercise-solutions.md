@@ -1,6 +1,6 @@
 ---
 title: "'R for Data Science' Exercise Solutions"
-date: 2018
+date: 2018-07-01
 draft: false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

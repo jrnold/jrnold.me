@@ -1,6 +1,6 @@
 ---
 title: "R Code for Mastering 'Metrics"
-date: 2018
+date: 2018-04-20
 draft: false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
