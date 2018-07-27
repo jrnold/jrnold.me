@@ -8,7 +8,7 @@ authors:
 doi: 10.17605/OSF.IO/AF9JQ
 url_pdf: >
   https://dx.doi.org/10.17605/OSF.IO/AF9JQ
-date: 2017-08-25
+date: 2018
 publication: SocArXiV
 publication_types: ["3"]
 projects: []

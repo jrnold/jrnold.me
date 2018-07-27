@@ -84,15 +84,6 @@
     </item>
     
     <item>
-      <title>Covering the Campaign: Election Events in Emerging Democracies</title>
-      <link>https://jrnold.me/publication/covering-the-campaign/</link>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jrnold.me/publication/covering-the-campaign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
       <link>https://jrnold.me/teaching/uw-csss564-2017-spring/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
@@ -143,6 +134,16 @@
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://jrnold.me/publication/onset-american-civil-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Change Points and Linear Filtering in Dynamic Linear Models using Shrinkage Priors
+</title>
+      <link>https://jrnold.me/publication/smoothing-breaks/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrnold.me/publication/smoothing-breaks/</guid>
       <description></description>
     </item>
     
