@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/tags/bayesian/</link>
+    <link>/tags/bayesian/</link>
     <description>Recent content in Bayesian on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 12 Jun 2018 21:21:11 -0700</lastBuildDate>
     
-	<atom:link href="https://jrnold.me/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simon Jackman&#39;s BUGS Examples in Stan</title>
-      <link>https://jrnold.me/publication/bugs-examples-in-stan/</link>
+      <link>/publication/bugs-examples-in-stan/</link>
       <pubDate>Tue, 12 Jun 2018 21:21:11 -0700</pubDate>
       
-      <guid>https://jrnold.me/publication/bugs-examples-in-stan/</guid>
+      <guid>/publication/bugs-examples-in-stan/</guid>
       <description></description>
     </item>
     

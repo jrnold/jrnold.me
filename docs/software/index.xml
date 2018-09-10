@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/software/</link>
+    <link>/software/</link>
     <description>Recent content in Software on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jrnold.me/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

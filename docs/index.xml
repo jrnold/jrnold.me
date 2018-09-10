@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeffrey B. Arnold on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/</link>
+    <link>/</link>
     <description>Recent content in Jeffrey B. Arnold on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,138 +12,138 @@
     
     <item>
       <title>&#39;R for Data Science&#39; Exercise Solutions</title>
-      <link>https://jrnold.me/publication/r4ds-exercise-solutions/</link>
+      <link>/publication/r4ds-exercise-solutions/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/r4ds-exercise-solutions/</guid>
+      <guid>/publication/r4ds-exercise-solutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simon Jackman&#39;s BUGS Examples in Stan</title>
-      <link>https://jrnold.me/publication/bugs-examples-in-stan/</link>
+      <link>/publication/bugs-examples-in-stan/</link>
       <pubDate>Tue, 12 Jun 2018 21:21:11 -0700</pubDate>
       
-      <guid>https://jrnold.me/publication/bugs-examples-in-stan/</guid>
+      <guid>/publication/bugs-examples-in-stan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Code for Mastering &#39;Metrics</title>
-      <link>https://jrnold.me/publication/masteringmetrics/</link>
+      <link>/publication/masteringmetrics/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/masteringmetrics/</guid>
+      <guid>/publication/masteringmetrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
-      <link>https://jrnold.me/teaching/uw-csss564-2018-spring/</link>
+      <link>/teaching/uw-csss564-2018-spring/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-csss564-2018-spring/</guid>
+      <guid>/teaching/uw-csss564-2018-spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast, Consistent Tokenization of Natural Language Text</title>
-      <link>https://jrnold.me/publication/tokenization/</link>
+      <link>/publication/tokenization/</link>
       <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/tokenization/</guid>
+      <guid>/publication/tokenization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative Social Science: The R Tidyverse Code</title>
-      <link>https://jrnold.me/publication/tidy-qss/</link>
+      <link>/publication/tidy-qss/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/tidy-qss/</guid>
+      <guid>/publication/tidy-qss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Allegiance, Ability, and Achievement in the American Civil War: Commander Traits and Battlefield Military Effectiveness&#34;
 </title>
-      <link>https://jrnold.me/publication/commanders-and-military-effectiveness/</link>
+      <link>/publication/commanders-and-military-effectiveness/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/commanders-and-military-effectiveness/</guid>
+      <guid>/publication/commanders-and-military-effectiveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
-      <link>https://jrnold.me/teaching/uw-pols501-2018-winter/</link>
+      <link>/teaching/uw-pols501-2018-winter/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-pols501-2018-winter/</guid>
+      <guid>/teaching/uw-pols501-2018-winter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CS&amp;SS/STAT 564: Bayesian Statistics</title>
-      <link>https://jrnold.me/teaching/uw-csss564-2017-spring/</link>
+      <link>/teaching/uw-csss564-2017-spring/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-csss564-2017-spring/</guid>
+      <guid>/teaching/uw-csss564-2017-spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLS/CS&amp;SS 503: Advanced Political Research Design and Analysis</title>
-      <link>https://jrnold.me/teaching/uw-pols503-2017-spring/</link>
+      <link>/teaching/uw-pols503-2017-spring/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-pols503-2017-spring/</guid>
+      <guid>/teaching/uw-pols503-2017-spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
-      <link>https://jrnold.me/teaching/uw-pols501-2017-winter/</link>
+      <link>/teaching/uw-pols501-2017-winter/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-pols501-2017-winter/</guid>
+      <guid>/teaching/uw-pols501-2017-winter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLS/CS&amp;SS 503: Advanced Quantitative Political Methodology</title>
-      <link>https://jrnold.me/teaching/uw-pols503-2016-spring/</link>
+      <link>/teaching/uw-pols503-2016-spring/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-pols503-2016-spring/</guid>
+      <guid>/teaching/uw-pols503-2016-spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLS/CS&amp;SS 501: Advanced Political Research Design and Analysis</title>
-      <link>https://jrnold.me/teaching/uw-pols501-2016-winter/</link>
+      <link>/teaching/uw-pols501-2016-winter/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/teaching/uw-pols501-2016-winter/</guid>
+      <guid>/teaching/uw-pols501-2016-winter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Did Financial Markets Anticipate the Onset of the American Civil War?</title>
-      <link>https://jrnold.me/publication/onset-american-civil-war/</link>
+      <link>/publication/onset-american-civil-war/</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/onset-american-civil-war/</guid>
+      <guid>/publication/onset-american-civil-war/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Change Points and Linear Filtering in Dynamic Linear Models using Shrinkage Priors
 </title>
-      <link>https://jrnold.me/publication/smoothing-breaks/</link>
+      <link>/publication/smoothing-breaks/</link>
       <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/smoothing-breaks/</guid>
+      <guid>/publication/smoothing-breaks/</guid>
       <description></description>
     </item>
     

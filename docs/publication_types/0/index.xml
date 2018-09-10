@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 on Jeffrey B. Arnold</title>
-    <link>https://jrnold.me/publication_types/0/</link>
+    <link>/publication_types/0/</link>
     <description>Recent content in 0 on Jeffrey B. Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jrnold.me/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R Code for Mastering &#39;Metrics</title>
-      <link>https://jrnold.me/publication/masteringmetrics/</link>
+      <link>/publication/masteringmetrics/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jrnold.me/publication/masteringmetrics/</guid>
+      <guid>/publication/masteringmetrics/</guid>
       <description></description>
     </item>
     
